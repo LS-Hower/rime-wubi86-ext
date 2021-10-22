@@ -1,0 +1,56 @@
+---
+name: wubi86.cjk_strokes
+version: "2021-10-22"
+sort: unicode
+columns:
+  - text
+  - code
+  - weight
+encoder:
+  exclude_patterns:
+    - '^z.*$'
+  rules:
+    - length_equal: 2
+      formula: "AaAbBaBb"
+    - length_equal: 3
+      formula: "AaBaCaCb"
+    - length_in_range: [4, 10]
+      formula: "AaBaCaZa"
+...
+
+㇀	ggll	1000000
+㇁	nnll	1000000
+㇂	nnll	1000000
+㇃	nnll	1000000
+㇄	nnll	1000000
+㇅	nnll	1000000
+㇆	nnll	1000000
+㇇	nnll	1000000
+㇈	nnll	1000000
+㇉	nnll	1000000
+㇊	nnll	1000000
+㇋	nnll	1000000
+㇌	nnll	1000000
+㇍	nnll	1000000
+㇎	nnll	1000000
+㇏	yyll	1000000
+㇐	ggll	1000000
+㇑	hhll	1000000
+㇒	ttll	1000000
+㇓	ttll	1000000
+㇔	yyll	1000000
+㇕	nnll	1000000
+㇖	nnll	1000000
+㇗	nnll	1000000
+㇘	nnll	1000000
+㇙	nnll	1000000
+㇚	hhll	1000000
+㇛	nnll	1000000
+㇜	nnll	1000000
+㇝	yyll	1000000
+㇞	nnll	1000000
+㇟	nnll	1000000
+㇠	nnll	1000000
+㇡	nnll	1000000
+㇢	nnll	1000000
+㇣	nnll	1000000
