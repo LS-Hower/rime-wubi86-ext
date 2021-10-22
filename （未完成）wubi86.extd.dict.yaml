@@ -1,0 +1,34 @@
+---
+name: wubi86.extd
+version: "2021-10-22"
+sort: unicode
+columns:
+  - text
+  - code
+  - weight
+encoder:
+  exclude_patterns:
+    - '^z.*$'
+  rules:
+    - length_equal: 2
+      formula: "AaAbBaBb"
+    - length_equal: 3
+      formula: "AaBaCaCb"
+    - length_in_range: [4, 10]
+      formula: "AaBaCaZa"
+...
+
+𫝀𫝁𫝂𫝃𫝄𫝅𫝆𫝇𫝈𫝉𫝊𫝋𫝌𫝍𫝎𫝏
+𫝐𫝑𫝒𫝓𫝔𫝕𫝖𫝗𫝘𫝙𫝚𫝛𫝜𫝝𫝞𫝟
+𫝠𫝡𫝢𫝣𫝤𫝥𫝦𫝧𫝨𫝩𫝪𫝫𫝬𫝭𫝮𫝯
+𫝰𫝱𫝲𫝳𫝴𫝵𫝶𫝷𫝸𫝹𫝺𫝻𫝼𫝽𫝾𫝿
+𫞀𫞁𫞂𫞃𫞄𫞅𫞆𫞇𫞈𫞉𫞊𫞋𫞌𫞍𫞎𫞏
+𫞐𫞑𫞒𫞓𫞔𫞕𫞖𫞗𫞘𫞙𫞚𫞛𫞜𫞝𫞞𫞟
+𫞠𫞡𫞢𫞣𫞤𫞥𫞦𫞧𫞨𫞩𫞪𫞫𫞬𫞭𫞮𫞯
+𫞰𫞱𫞲𫞳𫞴𫞵𫞶𫞷𫞸𫞹𫞺𫞻𫞼𫞽𫞾𫞿
+𫟀𫟁𫟂𫟃𫟄𫟅𫟆𫟇𫟈𫟉𫟊𫟋𫟌𫟍𫟎𫟏
+𫟐𫟑𫟒𫟓𫟔𫟕𫟖𫟗𫟘𫟙𫟚𫟛𫟜𫟝𫟞𫟟
+𫟠𫟡𫟢𫟣𫟤𫟥𫟦𫟧𫟨𫟩𫟪𫟫𫟬𫟭𫟮𫟯
+𫟰𫟱𫟲𫟳𫟴𫟵𫟶𫟷𫟸𫟹𫟺𫟻𫟼𫟽𫟾𫟿
+𫠀𫠁𫠂𫠃𫠄𫠅𫠆𫠇𫠈𫠉𫠊𫠋𫠌𫠍𫠎𫠏
+𫠐𫠑𫠒𫠓𫠔𫠕𫠖𫠗𫠘𫠙𫠚𫠛𫠜𫠝
