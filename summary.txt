@@ -11,3 +11,4 @@ wubi86.109.dict.yaml	共7个
 wubi86.extd.dict.yaml	共2个
 𫝄	twu	twi
 𫝂	guth	geth
+𪜚	inst	istn

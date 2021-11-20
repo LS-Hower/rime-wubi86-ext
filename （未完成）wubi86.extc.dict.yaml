@@ -1,7 +1,6 @@
 ---
 name: wubi86.extc
-version: "2021-10-22"
-sort: unicode
+version: "2021-11-21"
 columns:
   - text
   - code
@@ -45,6 +44,7 @@ encoder:
 𪜘	dnhc	0
 𪜙	vdja	0
 𪜚	inst	0
+𪜚	istn	0
 𪜛	ebnh	0
 𪜜	uxbh	0
 𪜝	cbaw	0
@@ -274,10 +274,70 @@ encoder:
 𪟽	hbj	0
 𪟾	fihi	0
 𪟿	hjhy	0
-𪠀𪠁𪠂𪠃𪠄𪠅𪠆𪠇𪠈𪠉𪠊𪠋𪠌𪠍𪠎𪠏
-𪠐𪠑𪠒𪠓𪠔𪠕𪠖𪠗𪠘𪠙𪠚𪠛𪠜𪠝𪠞𪠟
-𪠠𪠡𪠢𪠣𪠤𪠥𪠦𪠧𪠨𪠩𪠪𪠫𪠬𪠭𪠮𪠯
-𪠰𪠱𪠲𪠳𪠴𪠵𪠶𪠷𪠸𪠹𪠺𪠻𪠼𪠽𪠾𪠿
+𪠀	hpgf	0
+𪠁	wgkb	0
+𪠂	cvcb	0
+𪠃	dcg	0
+𪠄	djnv	0
+𪠅	dfkd	0
+𪠆	duak	0
+𪠇	dfoi	0
+𪠈	dkkn	0
+𪠉	dhqh	0
+𪠊	djdi	0
+𪠋	dfhd	0
+𪠌	dxdm	0
+𪠍	ddei	0
+𪠎	dwcn	0
+𪠏	ddhc	0
+𪠐	dwfg	0
+𪠑	dgef	0
+𪠒	deut	0
+𪠓	damw	0
+𪠔	drxc	0
+𪠕	dnwy	0
+𪠖	dogy	0
+𪠗	djbk	0
+𪠘	dqeh	0
+𪠙	duen	0
+𪠚	dttl	0
+𪠛	dkkt	0
+𪠜	ycmh	0
+𪠝	fcnx	0
+𪠞	qqfc	0
+𪠟	cdeq	0
+𪠠	ctdw	0
+𪠡	cdew	0
+𪠢	fcyw	0
+𪠣	qcu	0
+𪠤	vcy	0
+𪠥	cef	0
+𪠦	dfcy	0
+𪠧	scy	0
+𪠨	vcu	0
+𪠩	wfic	0
+𪠪	nhfc	0
+𪠫	udrc	0
+𪠬	vdcy	0
+𪠭	rcbg	0
+𪠮	pwwc	0
+𪠯	akkc	0
+𪠰	cccj	0
+𪠱	bcfy	0
+𪠲	kcu	0
+𪠳	klh	0
+𪠴	kqqy	0
+𪠵	kwxn	0
+𪠶	kwfg	0
+𪠷	kqkf	0
+𪠸	kqi	0
+𪠹	pykf	0
+𪠺	krvy	0
+𪠻	kycq	0
+𪠼	kmww	0
+𪠽	kivg	0
+𪠾	ktey	0
+𪠿	kthh	0
 𪡀𪡁𪡂𪡃𪡄𪡅𪡆𪡇𪡈𪡉𪡊𪡋𪡌𪡍𪡎𪡏
 𪡐𪡑𪡒𪡓𪡔𪡕𪡖𪡗𪡘𪡙𪡚𪡛𪡜𪡝𪡞𪡟
 𪡠𪡡𪡢𪡣𪡤𪡥𪡦𪡧𪡨𪡩𪡪𪡫𪡬𪡭𪡮𪡯

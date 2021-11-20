@@ -1,7 +1,6 @@
 ---
-name: wubi86.jiabbu
-version: "2021-10-22"
-sort: unicode
+name: wubi86.109
+version: "2021-11-21"
 columns:
   - text
   - code

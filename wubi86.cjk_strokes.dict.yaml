@@ -1,7 +1,6 @@
 ---
 name: wubi86.cjk_strokes
-version: "2021-10-22"
-sort: unicode
+version: "2021-11-21"
 columns:
   - text
   - code
