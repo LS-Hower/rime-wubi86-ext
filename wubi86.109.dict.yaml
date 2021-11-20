@@ -1,0 +1,136 @@
+---
+name: wubi86.jiabbu
+version: "2021-10-22"
+sort: unicode
+columns:
+  - text
+  - code
+  - weight
+encoder:
+  exclude_patterns:
+    - '^z.*$'
+  rules:
+    - length_equal: 2
+      formula: "AaAbBaBb"
+    - length_equal: 3
+      formula: "AaBaCaCb"
+    - length_in_range: [4, 10]
+      formula: "AaBaCaZa"
+...
+
+龦	oiph	0
+龧	jjfj	0
+龨	awyd	0
+龩	aafr	0
+龪	fhwi	0
+龫	lwfh	0
+龬	qmun	0
+龭	claw	0
+龮	cnlw	0
+龯	qdnt	0
+龰	hhgy	0
+龱	lqi	0
+龲	qylh	0
+龳	fwff	0
+龴	cny	0
+龵	rtgt	0
+龶	gggg	0
+龷	aghg	0
+龸	ipb	0
+龹	udi	0
+龺	fjj	0
+龻	xyxy	0
+龼	fhph	0
+龽	oqoy	0
+龾	hcqo	0
+龿	awff	0
+鿀	aatg	0
+鿁	yawy	0
+鿂	lwvo	0
+鿃	hdty	0
+鿄	ivys	0
+鿅	pyfc	0
+鿆	pydc	0
+鿇	wqvh	0
+鿈	tnyy	0
+鿉	tgg	0
+鿊	aihg	0
+鿋	pufk	0
+鿌	iyji	0
+鿍	ftah	0
+鿎	ddpy	0
+鿏	qgty	0
+鿐	qoig	0
+鿑	ugyy	0
+鿒	admu	0
+鿓	admu	0
+鿔	qskk	0
+鿕	qgmy	0
+鿖	wgkg	0
+鿗	wwvg	0
+鿘	wvtk	0
+鿙	wvtq	0
+鿚	wvtk	0
+鿛	ufwq	0
+鿜	rugq	0
+鿝	slyq	0
+鿞	gqjq	0
+鿟	tjqi	0
+鿠	tjgq	0
+鿡	lxwq	0
+鿢	bbwk	0
+鿣	bbfq	0
+鿤	bbsk	0
+鿥	yvcq	0
+鿦	amdt	0
+鿧	btgq	0
+鿨	flgq	0
+鿩	qojq	0
+鿪	uepo	0
+鿫	rntd	0
+鿬	dlg	0
+鿭	qqiy	0
+鿮	ygkh	0
+鿯	trqo	0
+鿰	ifjh	0
+鿱	gcn	0
+鿲	gkul	0
+鿳	qotx	0
+鿴	qgtu	0
+鿵	qgfn	0
+鿶	qgye	0
+鿷	qguj	0
+鿸	qgtx	0
+鿹	qgpm	0
+鿺	gttg	0
+鿻	vnuh	0
+鿼	vnuk	0
+鿽	kpwf	0
+鿾	fyvb	0
+鿿	gehi	0
+䶶	hrjh	0
+䶷	kqn	0
+䶸	ktcy	0
+䶹	bte	0
+䶺	emwy	0
+䶻	epqn	0
+䶼	ewcn	0
+䶽	eqbt	0
+䶾	vwqw	0
+䶿	wyvq	0
+𪛗	wgkf	0
+𪛗	wgmn	0
+𪛘	lhng	0
+𪛘	mqnv	0
+𪛙	ggll	0
+𪛙	nnll	0
+𪛚	hhgg	0
+𪛚	hnv	0
+𪛛	nyi	0
+𪛛	nnv	0
+𪛜	aaaa	0
+𪛜	ghnv	0
+𪛝	myi	0
+𪛝	tnyi	0
+𪛞	gaps	0
+𪛟	hgg	0

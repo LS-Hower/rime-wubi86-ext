@@ -1,0 +1,13 @@
+wubi86.109.dict.yaml	共7个
+
+𪛗	wgkf	wgmn
+𪛘	lhng	mqnv
+𪛙	ggll	nnll
+𪛚	hhgg	hnv
+𪛛	nyi	nnv
+𪛜	aaaa	ghnv
+𪛝	myi	tnyi
+
+wubi86.extd.dict.yaml	共2个
+𫝄	twu	twi
+𫝂	guth	geth
