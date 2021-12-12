@@ -1,6 +1,5 @@
 ---
 name: wubi86.extc
-version: "2021-11-21"
 columns:
   - text
   - code
@@ -66,6 +65,7 @@ encoder:
 𪜭	wlng	0
 𪜮	whg	0
 𪜯	wkln	0
+𪜯	wklt	0
 𪜰	wty	0
 𪜱	wtu	0
 𪜲	wryy	0
@@ -212,6 +212,7 @@ encoder:
 𪞿	gvnj	0
 𪟀	vyn	0
 𪟁	dcjh	0
+𪟂	hkvt	0
 𪟂	hkvn	0
 𪟃	ddjh	0
 𪟄	ubtj	0
@@ -235,14 +236,19 @@ encoder:
 𪟖	vhgj	0
 𪟗	lksj	0
 𪟘	rgln	0
+𪟘	rglt	0
 𪟙	vcln	0
+𪟙	vclt	0
 𪟚	qkln	0
+𪟚	qklt	0
 𪟛	ivyl	0
 𪟜	iitl	0
 𪟝	gmln	0
+𪟝	gmlt	0
 𪟞	llft	0
 𪟟	qlql	0
 𪟠	ujln	0
+𪟠	ujlt	0
 𪟡	llsk	0
 𪟢	uwll	0
 𪟣	kkml	0
@@ -338,13 +344,125 @@ encoder:
 𪠽	kivg	0
 𪠾	ktey	0
 𪠿	kthh	0
-𪡀𪡁𪡂𪡃𪡄𪡅𪡆𪡇𪡈𪡉𪡊𪡋𪡌𪡍𪡎𪡏
-𪡐𪡑𪡒𪡓𪡔𪡕𪡖𪡗𪡘𪡙𪡚𪡛𪡜𪡝𪡞𪡟
-𪡠𪡡𪡢𪡣𪡤𪡥𪡦𪡧𪡨𪡩𪡪𪡫𪡬𪡭𪡮𪡯
-𪡰𪡱𪡲𪡳𪡴𪡵𪡶𪡷𪡸𪡹𪡺𪡻𪡼𪡽𪡾𪡿
-𪢀𪢁𪢂𪢃𪢄𪢅𪢆𪢇𪢈𪢉𪢊𪢋𪢌𪢍𪢎𪢏
-𪢐𪢑𪢒𪢓𪢔𪢕𪢖𪢗𪢘𪢙𪢚𪢛𪢜𪢝𪢞𪢟
-𪢠𪢡𪢢𪢣𪢤𪢥𪢦𪢧𪢨𪢩𪢪𪢫𪢬𪢭𪢮𪢯
+𪡀	ktdj	0
+𪡁	kycq	0
+𪡂	kcnh	0
+𪡃	knud	0
+𪡄	kalh	0
+𪡄	kalg	0
+𪡅	gkkf	0
+𪡅	gkkd	0
+𪡆	krwn	0
+𪡇	kwqi	0
+𪡈	kwrg	0
+𪡉	kkqh	0
+𪡊	keet	0
+𪡋	kwgi	0
+𪡌	iqwk	0
+𪡍	ykqh	0
+𪡎	klwc	0
+𪡏	klpy	0
+𪡐	dklk	0
+𪡑	skiv	0
+𪡒	kfuf	0
+𪡓	kjxx	0
+𪡔	klah	0
+𪡕	kqrr	0
+𪡖	kqld	0
+𪡗	krqw	0
+𪡘	qqkh	0
+𪡙	kyvb	0
+𪡚	kitg	0
+𪡛	kusk	0
+𪡜	dukq	0
+𪡜	dwkq	0
+𪡝	kawn	0
+𪡞	kkhm	0
+𪡟	kwqt	0
+𪡠	kriy	0
+𪡡	kqyg	0
+𪡢	vkkj	0
+𪡣	kpgm	0
+𪡤	irek	0
+𪡥	kiaw	0
+𪡦	kuhb	0
+𪡧	kusg	0
+𪡨	knoy	0
+𪡩	kmdo	0
+𪡪	dfek	0
+𪡫	kfke	0
+𪡬	djtk	0
+𪡭	ksgn	0
+𪡮	kmfy	0
+𪡯	kmun	0
+𪡰	kkvb	0
+𪡱	kdin	0
+𪡲	vkgd	0
+𪡳	ukck	0
+𪡴	kynn	0
+𪡵	kike	0
+𪡶	kpqy	0
+𪡷	kbwt	0
+𪡸	kruv	0
+𪡹	fnmk	0
+𪡺	kgom	0
+𪡻	ahjd	0
+𪡼	kkhd	0
+𪡽	kjfh	0
+𪡽	kkfh	0
+𪡽	kkdh	0
+𪡾	kttg	0
+𪡿	kega	0
+𪢀	ktlt	0
+𪢁	kyja	0
+𪢂	kudh	0
+𪢃	kybt	0
+𪢄	knug	0
+𪢅	krnf	0
+𪢆	kftp	0
+𪢇	kssp	0
+𪢈	rgkv	0
+𪢉	ktmk	0
+𪢊	ktli	0
+𪢋	kwsm	0
+𪢌	kugi	0
+𪢍	kxfk	0
+𪢎	kvkg	0
+𪢏	dfeb	0
+𪢐	kgkm	0
+𪢑	ktwk	0
+𪢒	kovt	0
+𪢓	yniy	0
+𪢓	ynig	0
+𪢔	kyno	0
+𪢕	kgqm	0
+𪢖	ktqn	0
+𪢗	kpnj	0
+𪢘	kugi	0
+𪢙	kgjh	0
+𪢚	krjc	0
+𪢛	kmeh	0
+𪢛	kmqh	0
+𪢜	kqgy	0
+𪢝	ktfn	0
+𪢞	xtbk	0
+𪢟	kymd	0
+𪢠	kaui	0
+𪢡	tfkk	0
+𪢢	fkug	0
+𪢣	fkue	0
+𪢤	ktdk	0
+𪢥	kthp	0
+𪢦	sksh	0
+𪢧	kbgn	0
+𪢨	lyi	0
+𪢩	lgig	0
+𪢪	ludk	0
+𪢫	llk	0
+𪢬	ljxx	0
+𪢭	luog	0
+𪢮	lyos	0
+𪢯	lahq	0
 𪢰𪢱𪢲𪢳𪢴𪢵𪢶𪢷𪢸𪢹𪢺𪢻𪢼𪢽𪢾𪢿
 𪣀𪣁𪣂𪣃𪣄𪣅𪣆𪣇𪣈𪣉𪣊𪣋𪣌𪣍𪣎𪣏
 𪣐𪣑𪣒𪣓𪣔𪣕𪣖𪣗𪣘𪣙𪣚𪣛𪣜𪣝𪣞𪣟
