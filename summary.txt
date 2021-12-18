@@ -23,6 +23,8 @@ wubi86.extc.dict.yaml
 𪡜	dukq	dwkq
 𪡽	kjfh	kkfh	kkdh
 𪢓	yniy	ynig
+𪣍	fjet	fjen
+𪣜	ftet	ften
 
 wubi86.extd.dict.yaml	共2个
 𫝄	twu	twi
