@@ -1,4 +1,4 @@
-wubi86.109.dict.yaml	共8个
+wubi86.109.dict.yaml
 
 龸	ipb	ipv
 𪛗	wgkf	wgmn
@@ -25,10 +25,15 @@ wubi86.extc.dict.yaml
 𪢓	yniy	ynig
 𪣍	fjet	fjen
 𪣜	ftet	ften
+𪤧	fvgw	fwfw
+𪥂	dvn	dvt
+𪥘	uskd	ukhd	uhkd
 
-wubi86.extd.dict.yaml	共2个
+wubi86.extd.dict.yaml
 𫝄	twu	twi
 𫝂	guth	geth
+𫝯	vgnb	wfgb
 𫝾	rswt	rswq
+𫟋	vgnw	wfgw
 𫟲	qvn	qvt
 𫟴	qwvt	qwvn
