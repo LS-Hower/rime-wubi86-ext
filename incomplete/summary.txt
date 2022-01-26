@@ -28,6 +28,7 @@ wubi86.extc.dict.yaml
 𪤧	fvgw	fwfw
 𪥂	dvn	dvt
 𪥘	uskd	ukhd	uhkd
+𪨽	muxf	mfux
 
 wubi86.extd.dict.yaml
 𫝄	twu	twi
