@@ -9,24 +9,15 @@ wubi86.109.dict.yaml
 𪛜	aaaa	ghnv
 𪛝	myi	tnyi
 
+wubi86.cjk_strokes.dict.yaml
+㇘(SWZ)	nnll	hgd
+
 wubi86.extc.dict.yaml
+𪜊	ynb	ynv
 𪜚	inst	istn
-𪜯	wkln	wklt
-𪟂	hkvt	hkvn
-𪟘	rgln	rglt
-𪟙	vcln	vclt
-𪟚	qkln	qklt
-𪟝	gmln	gmlt
-𪡄	kalh	kalg
-𪡅	gkkf	gkkd
-𪟠	ujln	ujlt
 𪡜	dukq	dwkq
-𪡽	kjfh	kkfh	kkdh
 𪢓	yniy	ynig
-𪣍	fjet	fjen
-𪣜	ftet	ften
 𪤧	fvgw	fwfw
-𪥂	dvn	dvt
 𪥘	uskd	ukhd	uhkd
 𪨽	muxf	mfux
 
@@ -34,7 +25,4 @@ wubi86.extd.dict.yaml
 𫝄	twu	twi
 𫝂	guth	geth
 𫝯	vgnb	wfgb
-𫝾	rswt	rswq
 𫟋	vgnw	wfgw
-𫟲	qvn	qvt
-𫟴	qwvt	qwvn
