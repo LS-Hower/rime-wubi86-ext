@@ -1,5 +1,4 @@
 wubi86.109.dict.yaml
-
 龸	ipb	ipv
 䶿	wpqn	wyvq
 𪛗	wgkf	wgmn
@@ -10,6 +9,7 @@ wubi86.109.dict.yaml
 𪛜	aaaa	ghnv
 𪛝	myi	tnyi
 鿮	ygkh	yahh
+
 wubi86.cjk_strokes.dict.yaml
 ㇘(SWZ)	nnll	hgd
 
@@ -29,6 +29,7 @@ wubi86.extc.dict.yaml
 𪥘	uskd	ukhd	uhkd
 𪦧	vfbh	vbfh
 𪨽	muxf	mfux
+𪩽	mhxd	mhad
 
 wubi86.extd.dict.yaml
 𫝄	twu	twi
