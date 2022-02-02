@@ -18,7 +18,6 @@ wubi86.extc.dict.yaml
 𪜚	inst	istn
 𪝶	wynn	wynx
 𪟟	qjql	qlql
-𪟽	hbj	hbk
 𪠶	kwfg	kfwy
 𪠿	kthh	kth
 𪡲	vkgd	kvgd
@@ -26,10 +25,13 @@ wubi86.extc.dict.yaml
 𪢛	kmeh	kmqh
 𪤧	fvgw	fwfw
 𪥑	dfie	dfin
-𪥘	uskd	ukhd	uhkd
+𪥘	ukhd	uskd
 𪦧	vfbh	vbfh
 𪨽	muxf	mfux
 𪩽	mhxd	mhad
+𪫈	gkhe	fkwe
+𪫕	txit	txty
+𪬍	nhkn	nhky
 
 wubi86.extd.dict.yaml
 𫝄	twu	twi
