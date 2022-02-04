@@ -40,6 +40,8 @@ wubi86.extc.dict.yaml
 𪮕	rnuj	rnuh
 𪮜	rtff	rtgf
 𪯶	ytgd	yrdy
+𪱛	vted	vtef
+𪱟	gjge	gyte
 
 wubi86.extd.dict.yaml
 𫝄	twu	twi
