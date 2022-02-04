@@ -9,6 +9,7 @@ wubi86.109.dict.yaml
 𪛜	aaaa	ghnv
 𪛝	myi	tnyi
 鿮	ygkh	yahh
+𪲂	sjnn	snjg
 
 wubi86.cjk_strokes.dict.yaml
 ㇘(SWZ)	nnll	hgd
