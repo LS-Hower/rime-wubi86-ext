@@ -32,6 +32,14 @@ wubi86.extc.dict.yaml
 𪫈	gkhe	fkwe
 𪫕	txit	txty
 𪬍	nhkn	nhky
+𪬗	ntff	ntgf
+𪬵	vfjn vhtn
+𪬶	nxiu	nxtu
+𪭀	uytn	ujun
+𪭃	nghl	nfll
+𪮕	rnuj	rnuh
+𪮜	rtff	rtgf
+𪯶	ytgd	yrdy
 
 wubi86.extd.dict.yaml
 𫝄	twu	twi
