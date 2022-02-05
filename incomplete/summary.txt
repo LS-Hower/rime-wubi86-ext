@@ -43,6 +43,9 @@ wubi86.extc.dict.yaml
 𪯶	ytgd	yrdy
 𪱛	vted	vtef
 𪱟	gjge	gyte
+𪳧	sdqb	sddb	sqdb
+𪴒	rrcy	srcy
+𪴤	swfq	svqq
 
 wubi86.extd.dict.yaml
 𫝄	twu	twi
