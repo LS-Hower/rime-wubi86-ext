@@ -50,6 +50,7 @@ U+2ADB3	𪶳	iqku	iqju
 U+2ADCE	𪷎	ighm	iamt	ianm
 U+2ADDC	𪷜	ixxi	ixii
 U+2ADFE	𪷾	itxg	itmg
+U+2AE3B	𪸻	ojyc	oyqy
 
 wubi86.extd.dict.yaml
 U+2B742	𫝂	guth	geth
