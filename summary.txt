@@ -1,0 +1,18 @@
+wubi86.109.dict.yaml
+U+9FB8	龸	ipb	ipv
+U+4DBF	䶿	wpqn	wyvq
+U+2A6D7	𪛗	wgkf	wgmn
+U+2A6D8	𪛘	lhng	mqnv
+U+2A6D9	𪛙	ggll	nnll
+U+2A6DA	𪛚	hhgg	hnv
+U+2A6DB	𪛛	nyi	nnv
+U+2A6DC	𪛜	aaaa	ghnv
+U+2A6DD	𪛝	myi	tnyi
+U+9FEE	鿮	ygkh	yahh
+U+2AC82	𪲂	sjnn	snjg
+
+wubi86.extd.dict.yaml
+U+2B742	𫝂	guth	geth
+U+2B744	𫝄	twu	twi
+U+2B76F	𫝯	vgnb	wfgb
+U+2B7CB	𫟋	vgnw	wfgw
