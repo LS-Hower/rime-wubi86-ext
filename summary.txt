@@ -1,4 +1,4 @@
-wubi86.109.dict.yaml
+wubi86.109.dict.yaml	共10字
 U+9FB8	龸	ipb	ipv
 U+9FEE	鿮	ygkh	ygmh
 U+4DBF	䶿	wpqn	wyvq
@@ -10,9 +10,8 @@ U+2A6DB	𪛛	nyi	nnv
 U+2A6DC	𪛜	aaaa	ghnv
 U+2A6DD	𪛝	myi	tnyi
 
-
-wubi86.extd.dict.yaml
-U+2B742	𫝂	guth	geth
+wubi86.extd.dict.yaml	共4字
+U+2B742	𫝂	geth	guth
 U+2B744	𫝄	twu	twi
 U+2B76F	𫝯	vgnb	wfgb
 U+2B7CB	𫟋	vgnw	wfgw

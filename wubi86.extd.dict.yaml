@@ -18,11 +18,9 @@ encoder:
 
 𫝀	nhk	0
 𫝁	gkjk	0
-𫝂	guth	0
 𫝂	geth	0
 𫝃	gumw	0
 𫝄	twu	0
-𫝄	twi	0
 𫝅	ycwu	0
 𫝆	wgdr	0
 𫝇	wgkh	0
@@ -66,7 +64,6 @@ encoder:
 𫝭	vmmv	0
 𫝮	vugi	0
 𫝯	vgnb	0
-𫝯	wfgb	0
 𫝰	pqjn	0
 𫝱	pnts	0
 𫝲	nvyi	0
@@ -159,7 +156,6 @@ encoder:
 𫟉	bcy	0
 𫟊	eyah	0
 𫟋	vgnw	0
-𫟋	wfgw	0
 𫟌	aqhu	0
 𫟍	aqxb	0
 𫟎	aagq	0
@@ -242,3 +238,8 @@ encoder:
 𫠛	hwwg	0
 𫠜	hwbq	0
 𫠝	imkn	0
+#容错码
+𫝂	guth	0
+𫝄	twi	0
+𫝯	wfgb	0
+𫟋	wfgw	0
