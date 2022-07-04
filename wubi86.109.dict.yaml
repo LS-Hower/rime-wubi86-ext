@@ -36,7 +36,6 @@ encoder:
 龶	gggg	0
 龷	aghg	0
 龸	ipb	0
-龸	ipv	0
 龹	udi	0
 龺	fjj	0
 龻	xyxy	0
@@ -91,7 +90,6 @@ encoder:
 鿬	dlg	0
 鿭	qqiy	0
 鿮	ygkh	0
-鿮	yahh	0
 鿯	trqo	0
 鿰	ifjh	0
 鿱	gcn	0
@@ -119,20 +117,23 @@ encoder:
 䶽	eqbt	0
 䶾	vwqw	0
 䶿	wpqn	0
-䶿	wyvq	0
 𪛗	wgkf	0
-𪛗	wgmn	0
 𪛘	lhng	0
-𪛘	mqnv	0
 𪛙	ggll	0
-𪛙	nnll	0
 𪛚	hhgg	0
-𪛚	hnv	0
 𪛛	nyi	0
-𪛛	nnv	0
 𪛜	aaaa	0
-𪛜	ghnv	0
 𪛝	myi	0
-𪛝	tnyi	0
 𪛞	gaps	0
 𪛟	hgg	0
+#容错码
+龸	ipv	0
+鿮	ygmh	0
+䶿	wyvq	0
+𪛗	wgmn	0
+𪛘	mqnv	0
+𪛙	nnll	0
+𪛚	hnv	0
+𪛛	nnv	0
+𪛜	ghnv	0
+𪛝	tnyi	0
