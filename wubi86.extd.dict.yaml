@@ -233,9 +233,9 @@ encoder:
 𫠖	dctg	0
 𫠗	hlqw	0
 𫠘	imfm	0
-𫠙	hwwc	0
+𫠙	hbmc	0
 𫠚	hobk	0
-𫠛	hwwg	0
+𫠛	hbjg	0
 𫠜	hwbq	0
 𫠝	imkn	0
 #容错码
@@ -243,3 +243,5 @@ encoder:
 𫝄	twi	0
 𫝯	wfgb	0
 𫟋	wfgw	0
+𫠙	hwwc	0
+𫠛	hwwg	0
