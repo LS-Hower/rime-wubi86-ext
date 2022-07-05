@@ -1,6 +1,12 @@
+# Rime 词典: wubi86.109
+# 编码：utf-8
+#
+# 作者：LS_Hower <ls_hower@qq.com>
+
 ---
 name: wubi86.109
-version: "2021-11-21"
+version: "2022-07-05"
+sort: by_weight
 columns:
   - text
   - code

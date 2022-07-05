@@ -1,4 +1,5 @@
 wubi86.109.dict.yaml	共10字
+
 9FB8	龸	ipb	ipv
 9FEE	鿮	ygkh	ygmh
 4DBF	䶿	wpqn	wyvq
@@ -10,7 +11,8 @@ wubi86.109.dict.yaml	共10字
 2A6DC	𪛜	aaaa	ghnv
 2A6DD	𪛝	myi	tnyi
 
-wubi86.extc.dict.yaml
+wubi86.extc.dict.yaml	共86字
+
 2A70A	𪜊	ynb	ynv
 2A71A	𪜚	inst	istn
 2A776	𪝶	wynn	wynx
@@ -99,6 +101,7 @@ wubi86.extc.dict.yaml
 2B727	𫜧	hbps	hwws
 
 wubi86.extd.dict.yaml	共6字
+
 2B742	𫝂	geth	guth
 2B744	𫝄	twu	twi
 2B76F	𫝯	vgnb	wfgb
