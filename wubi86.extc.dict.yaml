@@ -2355,7 +2355,7 @@ encoder:
 𫀚	pyjl	0
 𫀛	pybb	0
 𫀜	dwti	0
-𫀝	jegi	0
+𫀝	jlfi	0
 𫀞	pywk	0
 𫀟	pynt	0
 𫀠	pyih	0
@@ -4172,7 +4172,10 @@ encoder:
 𫜲	dedx	0
 𫜳	mfqn	0
 𫜴	ssoa	0
-#容错码
+
+# 容错码
+
+𪜂	gvyu	0
 𪜊	ynv	0
 𪜚	istn	0
 𪝶	wynx	0
@@ -4210,9 +4213,7 @@ encoder:
 𪼰	gwfr	0
 𪾗	wyvl	0
 𫀍	pyjy	0
-𫀝	jmgi	0
-𫀝	jhhi	0
-𫀝	jlfi	0
+𫀝	jegi	0
 𫀦	tsyu	0
 𫂝	tqmt	0
 𫂷	otyf	0
