@@ -58,6 +58,7 @@ U+2B00D	𫀍	pyjt	pyjy
 U+2B01D	𫀝	jlfi	jegi
 U+2B026	𫀦	tsyi	tsyu
 U+2B09D	𫂝	tqmq	tqmt
+U+2B0B1	𫂱	tohk	tohh
 U+2B0B7	𫂷	oqfh	otyf
 U+2B10E	𫄎	xnlv	xnkv
 U+2B111	𫄑	xwyv	xwpv
