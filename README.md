@@ -40,6 +40,7 @@
 可以参考 [lotem](https://github.com/lotem) 的[导入码表示例](https://gist.github.com/lotem/5443073)。
 
 具体地，比如要将 `wubi86.109.dict.yaml` 和 `wubi86.extc.dict.yaml` 导入 `wubi86.dict.yaml`，就应该在 `wubi86.dict.yaml` 的 `---` 和 `...` 之间写上：
+
 ```
 import_tables:
   - wubi86.109
