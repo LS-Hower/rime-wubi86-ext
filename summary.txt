@@ -37,6 +37,7 @@ U+2AB40	𪭀	ujun	uytn
 U+2AB43	𪭃	nghl	nfll
 U+2AB95	𪮕	rnuh	rnuj
 U+2AB9C	𪮜	rtgf	rtff
+U+2ABE2	𪯢	yyy	aya
 U+2AC5B	𪱛	vted	vtef
 U+2AC5F	𪱟	gjge	gyte
 U+2AC82	𪲂	sjnn	snjg
