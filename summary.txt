@@ -28,11 +28,9 @@ U+2A951	𪥑	dfin	dfie
 U+2A958	𪥘	ukhd	uskd
 U+2AA5F	𪩟	mhbn	mhwn
 U+2AAC8	𪫈	fkwe	gkhe
-U+2AAD5	𪫕	txit	txty
 U+2AB0D	𪬍	nhkn	nhky
 U+2AB17	𪬗	ntgf	ntff
 U+2AB35	𪬵	vfjn	vhtn
-U+2AB36	𪬶	nxiu	nxtu
 U+2AB40	𪭀	ujun	uytn
 U+2AB43	𪭃	nghl	nfll
 U+2AB95	𪮕	rnuh	rnuj
@@ -45,7 +43,6 @@ U+2ACE7	𪳧	sqdb	sdqb	sddb
 U+2AD12	𪴒	rrcy	srcy
 U+2AD24	𪴤	svqq	swfq
 U+2ADB3	𪶳	iqku	iqju
-U+2ADDC	𪷜	ixxi	ixii
 U+2ADFE	𪷾	itxg	itmg
 U+2AE3B	𪸻	ojyc	oyqy
 U+2AE6A	𪹪	ogfn	oghn
@@ -56,7 +53,6 @@ U+2AF30	𪼰	gvgr	gwfr
 U+2AF97	𪾗	wprl	wyvl
 U+2AFB6	𪾶	htgf	htff
 U+2B00D	𫀍	pyjt	pyjy
-U+2B01D	𫀝	jlfi	jegi
 U+2B026	𫀦	tsyi	tsyu
 U+2B09D	𫂝	tqmq	tqmt
 U+2B0B1	𫂱	tohk	tohh
