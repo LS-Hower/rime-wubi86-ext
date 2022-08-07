@@ -19,6 +19,7 @@
 | wubi86.109.dict.yaml | 9FA6-9FFF<br/>4DB6-4DBF<br/>2A6D7-2A6DF<br/>2B735-2B738 | 90<br/>10<br/>9<br/>4 |
 | wubi86.extc.dict.yaml | 2A700-2B734 | 4149 |
 | wubi86.extd.dict.yaml | 2B740-2B81D | 222 |
+| wubi86.exte.dict.yaml | 2B820-2CEA1 | 5762 |
 
 按照[叶典](http://yedict.com/)的说法，`wubi86.109.dict.yaml` 的四个部分可以叫做基本区补充、扩展 A 补充、扩展 B 补充和扩展 C 补充。
 
@@ -29,7 +30,7 @@
 * 86 五笔自己存在一些繁体字根。繁体字根会使一些字有两种拆法，如“齒”字，既可以是 `hbj`，也可以是 `hwwb`；
 * 一些汉字字形清奇、结构难以判断，不好确定五笔码时，也设置容错码。如“𪭃”字，既是 `nghl`，也是 `nfll`。
 * 一些汉字在不同字库中，字形存在分歧，如“鿃”字，本应为⿰目㚒，`hdty`，但 SimSun-ExtB 字体作⿰目夾，`hdww`。
-* 有相当一部分五笔码的编写是参考了 [rime/rime-wubi](https://github.com/rime/rime-wubi) 的 `wubi86.dict.yaml。例如“𠕄”字，它作 `mmgg`，所以这里的“𫩦”字（扩 E 汉字，码表暂未完成）既设置 `kmgm`，又设置 `kmmg`。
+* 有相当一部分五笔码的编写是参考了 [rime/rime-wubi](https://github.com/rime/rime-wubi) 的 `wubi86.dict.yaml`。例如“𠕄”字，它作 `mmgg`，所以这里的“𫩦”字既是 `kmgm`，又是 `kmmg`。
 * 彩蛋。
 
 第二，这些码表编制时，使用的**字形标准尽量跟随中国大陆（内地）的**。例如，遇到的部件“爭”一律作“争”处理。值得注意的是，**[rime/rime-wubi](https://github.com/rime/rime-wubi) 的 `wubi86.dict.yaml` 似乎并不特意把字形全改成中国大陆（内地）标准的**，比如“𨼳”字，作 `bbkf`，这是认了台湾字形。同时，它对字根的处理也略为不同，比如“𡆢”字，作 `lqi`。而本码表会认为应该分别作 `bbkg` 和 `lnv`。
