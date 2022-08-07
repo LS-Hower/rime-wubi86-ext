@@ -5,7 +5,7 @@
 
 ---
 name: wubi86.extd
-version: "2022-07-12"
+version: "2022.07.12"
 sort: by_weight
 columns:
   - text

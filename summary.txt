@@ -1,114 +1,299 @@
 wubi86.109.dict.yaml
 
-U+9FB8	龸	ipb	ipv
-U+9FC3	鿃	hdty	hdww
-U+9FEE	鿮	ygkh	ygmh
-U+4DBF	䶿	wpqn	wyvq
-U+2A6D7	𪛗	wgkf	wgmn
-U+2A6D8	𪛘	lhng	mqnv
-U+2A6D9	𪛙	ggll	nnll
-U+2A6DA	𪛚	hhgg	hnv
-U+2A6DB	𪛛	nyi	nnv
-U+2A6DC	𪛜	aaaa	ghnv
-U+2A6DD	𪛝	myi	tnyi
+龸	ipb	ipv
+鿃	hdty	hdww
+鿮	ygkh	ygmh
+䶿	wpqn	wyvq
+𪛗	wgkf	wgmn
+𪛘	lhng	mqnv
+𪛙	ggll	nnll
+𪛚	hhgg	hnv
+𪛛	nyi	nnv
+𪛜	aaaa	ghnv
+𪛝	myi	tnyi
 
 wubi86.extc.dict.yaml
 
-U+2A702	𪜂	dnyi	gvyu
-U+2A70A	𪜊	ynb	ynv
-U+2A71A	𪜚	inst	istn
-U+2A776	𪝶	wynn	wynx
-U+2A7CF	𪟏	tguj	tfuj
-U+2A7DF	𪟟	qqql	qjql
-U+2A836	𪠶	kwfg	kfwy
-U+2A83F	𪠿	kthh	kth
-U+2A927	𪤧	fvgw	fwfw
-U+2A92D	𪤭	fhbh	fhwb
-U+2A951	𪥑	dfin	dfie
-U+2A958	𪥘	ukhd	uskd
-U+2AA5F	𪩟	mhbn	mhwn
-U+2AAC8	𪫈	fkwe	gkhe
-U+2AB0D	𪬍	nhkn	nhky
-U+2AB17	𪬗	ntgf	ntff
-U+2AB35	𪬵	vfjn	vhtn
-U+2AB40	𪭀	ujun	uytn
-U+2AB43	𪭃	nghl	nfll
-U+2AB95	𪮕	rnuh	rnuj
-U+2AB9C	𪮜	rtgf	rtff
-U+2ABE2	𪯢	yyy	aya
-U+2AC5B	𪱛	vted	vtef
-U+2AC5F	𪱟	gjge	gyte
-U+2AC82	𪲂	sjnn	snjg
-U+2ACE7	𪳧	sqdb	sdqb	sddb
-U+2AD12	𪴒	rrcy	srcy
-U+2AD24	𪴤	svqq	swfq
-U+2ADB3	𪶳	iqku	iqju
-U+2ADFE	𪷾	itxg	itmg
-U+2AE3B	𪸻	ojyc	oyqy
-U+2AE6A	𪹪	ogfn	oghn
-U+2AE70	𪹰	oycy	oywy
-U+2AE8B	𪺋	ttxo	ttmo
-U+2AE91	𪺑	whye	rhye
-U+2AF30	𪼰	gvgr	gwfr
-U+2AF97	𪾗	wprl	wyvl
-U+2AFB6	𪾶	htgf	htff
-U+2B00D	𫀍	pyjt	pyjy
-U+2B026	𫀦	tsyi	tsyu
-U+2B09D	𫂝	tqmq	tqmt
-U+2B0B1	𫂱	tohk	tohh
-U+2B0B7	𫂷	oqfh	otyf
-U+2B10E	𫄎	xnlv	xnkv
-U+2B111	𫄑	xwyv	xwpv
-U+2B198	𫆘	efyy	eyhy
-U+2B295	𫊕	atft	adwt
-U+2B296	𫊖	aeyj	aeyf
-U+2B2A2	𫊢	hayf	hayf
-U+2B2BD	𫊽	jkqj	jklj
-U+2B2D1	𫋑	jgqg	jgyg
-U+2B2D9	𫋙	jxcj	jxkj
-U+2B344	𫍄	ynuh	ynuj
-U+2B3F9	𫏹	lrr	ltfh
-U+2B402	𫐂	plvl	pkgl
-U+2B403	𫐃	llel	lexl
-U+2B428	𫐨	foyp	fopi
-U+2B4B8	𫒸	qfkq	qfkm
-U+2B4D3	𫓓	vtpq	wftq
-U+2B545	𫕅	byjg	byjf
-U+2B584	𫖄	wtnd	wwnd
-U+2B586	𫖆	akfw	afkw
-U+2B5CE	𫗎	wpan	wyvn
-U+2B5CF	𫗏	wpde	wyve
-U+2B5D0	𫗐	wpwg	wyvg
-U+2B5D1	𫗑	wpqc	wyvc
-U+2B5D2	𫗒	wppv	wyvv
-U+2B5D3	𫗓	wptk	wyvk
-U+2B5D4	𫗔	wpsd	wyvd
-U+2B5D5	𫗕	wpff	wyvf
-U+2B5D6	𫗖	wpdd	wyvd
-U+2B5D7	𫗗	wpnh	wyvh
-U+2B5D8	𫗘	wptl	wyvl
-U+2B5D9	𫗙	wpgm	wyvm
-U+2B5DB	𫗛	wppj	wyvj
-U+2B5DC	𫗜	wpfj	wyvj
-U+2B5DD	𫗝	wpal	wyvl
-U+2B5FF	𫗿	tjnh	tjnj
-U+2B683	𫚃	vqqo	wfqo
-U+2B6B2	𫚲	pmwo	pqwo
-U+2B6BD	𫚽	mtfo	mgwo
-U+2B707	𫜇	hloo	hlqo
-U+2B709	𫜉	hloy	hlqy
-U+2B71B	𫜛	lfoh	lfoj
-U+2B71D	𫜝	kkxb	kkmv
-U+2B71E	𫜞	lfox	lfov
-U+2B725	𫜥	hbmm	hwwm
-U+2B726	𫜦	hbgy	hwwy
-U+2B727	𫜧	hbps	hwws
+𪜂	dnyi	gvyu
+𪜊	ynb	ynv
+𪜚	inst	istn
+𪝶	wynn	wynx
+𪟏	tguj	tfuj
+𪟟	qqql	qjql
+𪠶	kwfg	kfwy
+𪠿	kthh	kth
+𪤧	fvgw	fwfw
+𪤭	fhbh	fhwb
+𪥑	dfin	dfie
+𪥘	ukhd	uskd
+𪩟	mhbn	mhwn
+𪫈	fkwe	gkhe
+𪬍	nhkn	nhky
+𪬗	ntgf	ntff
+𪬵	vfjn	vhtn
+𪭀	ujun	uytn
+𪭃	nghl	nfll
+𪮕	rnuh	rnuj
+𪮜	rtgf	rtff
+𪯢	yyy	aya
+𪱛	vted	vtef
+𪱟	gjge	gyte
+𪲂	sjnn	snjg
+𪳧	sqdb	sdqb	sddb
+𪴒	rrcy	srcy
+𪴤	svqq	swfq
+𪶳	iqku	iqju
+𪷾	itxg	itmg
+𪸻	ojyc	oyqy
+𪹪	ogfn	oghn
+𪹰	oycy	oywy
+𪺋	ttxo	ttmo
+𪺑	whye	rhye
+𪼰	gvgr	gwfr
+𪾗	wprl	wyvl
+𪾶	htgf	htff
+𫀍	pyjt	pyjy
+𫀦	tsyi	tsyu
+𫂝	tqmq	tqmt
+𫂱	tohk	tohh
+𫂷	oqfh	otyf
+𫄎	xnlv	xnkv
+𫄑	xwyv	xwpv
+𫆘	efyy	eyhy
+𫊕	atft	adwt
+𫊖	aeyj	aeyf
+𫊢	hayf	hayf
+𫊽	jkqj	jklj
+𫋑	jgqg	jgyg
+𫋙	jxcj	jxkj
+𫍄	ynuh	ynuj
+𫏹	lrr	ltfh
+𫐂	plvl	pkgl
+𫐃	llel	lexl
+𫐨	foyp	fopi
+𫒸	qfkq	qfkm
+𫓓	vtpq	wftq
+𫕅	byjg	byjf
+𫖄	wtnd	wwnd
+𫖆	akfw	afkw
+𫖱	vedm	vcdm
+𫗎	wpan	wyvn
+𫗏	wpde	wyve
+𫗐	wpwg	wyvg
+𫗑	wpqc	wyvc
+𫗒	wppv	wyvv
+𫗓	wptk	wyvk
+𫗔	wpsd	wyvd
+𫗕	wpff	wyvf
+𫗖	wpdd	wyvd
+𫗗	wpnh	wyvh
+𫗘	wptl	wyvl
+𫗙	wpgm	wyvm
+𫗛	wppj	wyvj
+𫗜	wpfj	wyvj
+𫗝	wpal	wyvl
+𫗿	tjnh	tjnj
+𫚃	vqqo	wfqo
+𫚲	pmwo	pqwo
+𫚽	mtfo	mgwo
+𫜇	hloo	hlqo
+𫜉	hloy	hlqy
+𫜛	lfoh	lfoj
+𫜝	kkxb	kkmv
+𫜞	lfox	lfov
+𫜥	hbmm	hwwm
+𫜦	hbgy	hwwy
+𫜧	hbps	hwws
 
 wubi86.extd.dict.yaml
 
-U+2B742	𫝂	geth	guth
-U+2B744	𫝄	twu	twi
-U+2B76F	𫝯	vgnb	wfgb
-U+2B7CB	𫟋	vgnw	wfgw
-U+2B819	𫠙	hbmc	hwwc
-U+2B81B	𫠛	hbjg	hwwg
+𫝂	geth	guth
+𫝄	twu	twi
+𫝯	vgnb	wfgb
+𫟋	vgnw	wfgw
+𫠙	hbmc	hwwc
+𫠛	hbjg	hwwg
+
+wubi86.exte.dict.yaml
+
+𫡀	uogj	uoyf
+𫡃	hhk	hghk
+𫡆	vhvd	hvvd
+𫡙	tfug	tguf
+𫡷	gfgj	ghgj
+𫢊	uwhj	uiu
+𫢤	wtkq	wtjq
+𫢳	wtkq	wtlq
+𫣋	wrfc	wrgc
+𫣶	wrhd	wtfd
+𫤂	wvmw	wwfw
+𫧂	rhky	tfky
+𫦘	qlwv	qlqv
+𫨜	dwpw	dwyw
+𫨼	aiic	awhc
+𫩦	kmgm	kmmg
+𫪉	kwkw	kkww
+𫫀	kukh	kusk
+𫫁	knuh	knuj
+𫫘	gikk	gigk
+𫬁	vgnk	qggk
+𫬔	fkfk	ffkk
+𫬬	kryj	kryf
+𫬯	nfdn	fndn
+𫬴	vssk	wfsk
+𫬵	kiyj	kiyf
+𫭬	hjff	hjfd
+𫮍	fukh	fusk
+𫮩	vmff	qgmf
+𫯉	fpff	fphf
+𫰟	vghg	vgqg
+𫱴	vhvf	qghv
+𫱷	vvfj	vvhh
+𫲯	vybf	qgyb
+𫵚	ntdf	ngak
+𫵪	nvmw	nwfw
+𫵬	nevw	neww
+𫶋	vhpm	wfhm
+𫷙	guhj	guhf
+𫸟	vxaj	qgxa
+𫸪	xgna	xxn
+𫹁	xhbh	xhwb
+𫺙	njgw	nkgw
+𫻴	hhae	hent
+𫻵	rhka	tfka
+𫽇	rgmb	rglb
+𫾜	rvqr	rwfr
+𫿆	jgty	thht	thgt
+𫿶	qjqf	qqcf
+𬀛	yyjg	yyvf
+𬀡	ytvd	ytqd
+𬀣	ytvw	ytww
+𬂄	uaed	uent
+𬂇	egqg	egyg
+𬃑	sudq	suqn
+𬃪	sukh	susk
+𬄚	sgfn	sghn
+𬄷	ssfi	sfii
+𬅆	sofc	sogc
+𬅊	svmw	swfw
+𬅵	vuhw	qguw
+𬆋	hhtf	htff
+𬆣	wnfc	tnhc
+𬆧	rhkc	tfkc
+𬇈	tfno	tfno
+𬇎	qakk	qaqk
+𬇛	ighg	igqg
+𬈻	irhr	itfr
+𬉣	iwpt	iwyt
+𬋙	ovmw	owfw
+𬋡	vqqo	wfqo
+𬋪	epfc	epgc
+𬍋	vgnd	wfgd
+𬏹	uvmh	uqgh	uwfh
+𬐂	wfhf	wfnf
+𬐊	rhkr	tfkr
+𬑬	hvqq	hwfq
+𬒝	drhp	dtfp
+𬓄	pyqh	pyeh
+𬔨	uguo	uguw
+𬕝	tjf	tthh
+𬖲	obtj	obhj
+𬗋	hxiy	hhgi
+𬘃	xgfi	xghi
+𬘆	xjdh	xbfh
+𬘎	xavj	xavh
+𬙲	udga	udff
+𬙳	udka	ugka
+𬙶	udee	ugee
+𬚠	btlq	btkq
+𬚩	mdmb	mmmb
+𬛺	vqak	qgqk
+𬛻	vypt	wfyt
+𬛼	vgnl	wfgl
+𬛽	vqql	wfql
+𬛿	vhnn	qghn
+𬜀	vhpt	qght
+𬜁	vvkc	wfvc
+𬜂	vssg	qgsg
+𬜃	vmgm	qgmm
+𬜄	vssq	qgsq
+𬜺	axny	axnf	axng
+𬝍	agqi	agti
+𬝨	awwf	gjgf
+𬞂	aqud	aqrd
+𬞭	aaho	gjgo
+𬞳	aeun	gjgn
+𬞴	arqf	gjgf
+𬞵	aqve	gjge
+𬞶	awgn	gjgn
+𬞸	apaq	gjgq
+𬞻	axrh	gjgh
+𬞼	axwy	gjgy
+𬞽	avjc	gjgc
+𬟏	axd	amgg
+𬠞	jnuh	jnuj
+𬠪	jbcg	jbcf
+𬠰	vqqj	wfqj
+𬠸	eeuj	tuej
+𬣉	yvfj	yvhh
+𬣏	vqey	qgqy
+𬥘	mrhk	mtfk
+𬥰	qaqm	qamm
+𬦏	fhhv	fhvv
+𬧻	lvlh	kgkl
+𬩙	rhkp	tfkp
+𬩣	yjpd	yvup
+𬩭	rhkp	tfkp
+𬪜	yjbh	yvub
+𬪵	irhg	itfg
+𬪶	sgyg	sgyn
+𬪿	gfgf	ghgf
+𬫆	qtdc	qftc
+𬮀	qvmw	qwfw
+𬮂	qvmm	qwfm
+𬯶	vuwy	qguy
+𬱻	umrt	umfg
+𬲈	mfvw	mfww
+𬲋	wpfw	wyvw
+𬲌	wpgh	wyvh
+𬲍	wpwv	wyvv
+𬲎	wptn	wyvn
+𬲐	wpdt	wyvt
+𬲑	wpvj	wyvj
+𬲒	wpxd	wyvd
+𬲓	wpwt	wyvt
+𬲔	wpyk	wyvk
+𬲗	wpdv	wyvv
+𬲘	wpsv	wyvv
+𬲙	wpua	wyva
+𬲚	wpda	wyva
+𬲛	wpar	wyvr
+𬲜	wpit	wyvt
+𬲝	wpuf	wyvf
+𬲞	wpvs	wyvs
+𬲠	wpwn	wyvn
+𬲡	wpnn	wyvn
+𬲢	wpfq	wyvq
+𬲣	wptr	wyvr
+𬲤	wphc	wyvc
+𬴾	rqhd	tlqh
+𬵀	rqlk	tlql
+𬵙	rqqo	tlqo
+𬵞	qojg	qoth
+𬶊	qggy	qggg
+𬸲	hlox	hlqx
+𬸳	hloq	hlqq
+𬸴	hlot	hlqt
+𬹝	qxf	qmgv
+𬹞	dxf	dmgv
+𬹟	paxf	pamv
+𬹠	mxf	mmgv
+𬹡	wtxf	wtmv
+𬹢	gjhf	gjhv
+𬹱	yvbj	yvbf
+𬹲	ylf	yvul
+𬹵	hbes	hwws
+𬹶	hbye	hwwe
+𬹷	hbpf	hwwf
+𬹸	hboh	hwwh
+𬹹	hbaw	hwww
