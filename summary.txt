@@ -53,6 +53,7 @@ wubi86.extc.dict.yaml
 𪾗	wprl	wyvl
 𪾶	htgf	htff
 𫀍	pyjt	pyjy
+𫀝	jlfi	jegi
 𫀦	tsyi	tsyu
 𫂝	tqmq	tqmt
 𫂱	tohk	tohh
@@ -117,7 +118,7 @@ wubi86.extd.dict.yaml
 wubi86.exte.dict.yaml
 
 𫡀	uogj	uoyf
-𫡃	hhk	hghk
+𫡃	jgd hhk	hghk
 𫡆	vhvd	hvvd
 𫡙	tfug	tguf
 𫡷	gfgj	ghgj

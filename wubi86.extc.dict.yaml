@@ -5,7 +5,7 @@
 
 ---
 name: wubi86.extc
-version: "2022.08.07"
+version: "2022.08.23"
 sort: by_weight
 columns:
   - text
@@ -4215,6 +4215,7 @@ encoder:
 𪾗	wyvl	0
 𪾶	htff	0
 𫀍	pyjy	0
+𫀝	jegi	0
 𫀦	tsyu	0
 𫂝	tqmt	0
 𫂱	tohh	0

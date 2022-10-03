@@ -5,7 +5,7 @@
 
 ---
 name: wubi86.exte
-version: "2022.08.07"
+version: "2022.09.11"
 sort: by_weight
 columns:
   - text
@@ -58,7 +58,7 @@ encoder:
 𫡀	uogj	0
 𫡁	uvog	0
 𫡂	uvog	0
-𫡃	hhk	0
+𫡃	jgd	0
 𫡄	ehj	0
 𫡅	nhnh	0
 𫡆	vhvd	0
@@ -5789,6 +5789,7 @@ encoder:
 # 容错码
 
 𫡀	uoyf	0
+𫡃	hhk	0
 𫡃	hghk	0
 𫡆	hvvd	0
 𫡙	tguf	0
