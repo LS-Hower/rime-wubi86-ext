@@ -200,6 +200,7 @@ wubi86.exte.dict.yaml
 𬕝	tjf	tthh
 𬖲	obtj	obhj
 𬗋	hxiy	hhgi
+𬗫	hixi	hnii
 𬘃	xgfi	xghi
 𬘆	xjdh	xbfh
 𬘎	xavj	xavh

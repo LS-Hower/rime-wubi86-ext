@@ -1,11 +1,11 @@
 # Rime 词典: wubi86.exte
 # 编码：utf-8
 #
-# 作者：LS_Hower <ls_hower@qq.com>
+# 作者：LS_Hower
 
 ---
 name: wubi86.exte
-version: "2022.09.11"
+version: "2022.10.12"
 sort: by_weight
 columns:
   - text
@@ -3554,7 +3554,7 @@ encoder:
 𬗨	xxmy	0
 𬗩	xdrh	0
 𬗪	gxic	0
-𬗫	hnii	0
+𬗫	hixi	0
 𬗬	xrgg	0
 𬗭	xuxx	0
 𬗮	xugd	0
@@ -5874,6 +5874,7 @@ encoder:
 𬕝	tthh	0
 𬖲	obhj	0
 𬗋	hhgi	0
+𬗫	hnii	0
 𬘃	xghi	0
 𬘆	xbfh	0
 𬘎	xavh	0
