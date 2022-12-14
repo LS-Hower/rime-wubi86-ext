@@ -46,7 +46,7 @@
 ```
 import_tables:
   - wubi86.extext
-  - wubi86.extext
+  - wubi86.extc
 ```
 
 以此类推。
