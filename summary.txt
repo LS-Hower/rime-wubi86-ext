@@ -1,4 +1,4 @@
-wubi86.109.dict.yaml
+wubi86.extext.dict.yaml
 
 龸	ipb	ipv
 鿃	hdty	hdww
