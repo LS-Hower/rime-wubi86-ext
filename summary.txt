@@ -108,10 +108,15 @@ wubi86.extc.dict.yaml
 
 wubi86.extd.dict.yaml
 
-𫝂	geth	guth
+𫝂	gith	guth
 𫝄	twu	twi
+𫝆	wgdr	wftr
+𫝢	qyhy	qfyy
 𫝯	vgnb	wfgb
+𫝾	rswt	rfwt
+𫞴	quti	qryi
 𫟋	vgnw	wfgw
+𫟮	sggc	sgtc
 𫠙	hbmc	hwwc
 𫠛	hbjg	hwwg
 
