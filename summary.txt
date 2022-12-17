@@ -118,7 +118,7 @@ wubi86.extd.dict.yaml
 wubi86.exte.dict.yaml
 
 𫡀	uogj	uoyf
-𫡃	jgd hhk	hghk
+𫡃	jgd	hhk	hghk
 𫡆	vhvd	hvvd
 𫡙	tfug	tguf
 𫡷	gfgj	ghgj
@@ -737,3 +737,160 @@ wubi86.extg.dict.yaml
 𱌤	hbtp	hwwp
 𱌧	hbdg	hwwg
 𱌨	hbbo	hwwo
+
+wubi86.exth.dict.yaml
+
+𱍐	fhqb	fhjj
+𱍓	dtfn	dtfy
+𱍕	giww	ghww
+𱍿	lvqy	kgky
+𱏜	wtxn	wtmg
+𱐞	hvcv	hjxv
+𱑟	dsjg	dseg
+𱒭	gosk	gokh
+𱕳	kuuq	kukq
+𱕻	loi	lqoi
+𱗭	fogj	fogk
+𱙨	vaqe	vave
+𱚕	pvfj	pvhh
+𱛪	bmit	mmit
+𱛺	mgki	mgku
+𱝭	tgmh	tymh
+𱞜	tman	tlan
+𱟛	jexn	jxyn	yxxn
+𱟞	hhah	hdht
+𱡃	rnlv	rnkv
+𱡔	ryvg	rywg
+𱡙	gfgc	ghgc
+𱡧	yvmo	ywfo
+𱡪	rxrh	vcrh
+𱡰	drtq	drth
+𱡹	hjhk	hjhh
+𱢗	jnuh	jnuj
+𱢜	jpdk	jptk	jpgk
+𱢲	jtxb	jtmg
+𱣟	svd	sqgv	swfv
+𱣶	sloy	slqo
+𱤶	svmo	swfo
+𱤻	gjgd	hghg	ghhg
+𱥴	igfy	ifhy
+𱥾	ighf	igjv
+𱦹	iquf	iqfu	iqfi
+𱦻	hhhg	iwwg
+𱧙	hhhu	iwwu
+𱧱	igqi	igqu	igqy
+𱧼	igju	iamu
+𱧽	iogj	iogh	iogi
+𱨭	ikfd	ikff
+𱨼	iyuy	iyiy
+𱩅	ifsf	ifkf
+𱩎	ilud	ilyd	iluh
+𱩒	iloe	ilqe
+𱩗	iobt	iqot
+𱩞	iijg	iith
+𱩫	vmgi	wfmi
+𱩵	ilvt	ikgt
+𱪏	iayj	iayf
+𱪷	whfo	wfho
+𱪽	dnfo	dnho
+𱫇	gifo	giho
+𱫏	oydf	oytf
+𱫶	otlq	otlc
+𱬠	lloo	lolo
+𱬧	vtlo	qgto	wfto
+𱬩	yuro	yopo
+𱬰	vepo	wfeo
+𱬲	vmgo	wfmo
+𱭔	nhdd	nhdf
+𱭻	qtrd	qttw
+𱮡	gvtc	yvtc
+𱮦	qtlu	tntu
+𱮪	gngy	gvhy	gnty
+𱮫	gnfc	gvhc	gntc
+𱮭	qtgq	qtac
+𱮶	ghvg	gmfg	gvhh
+𱯎	gake	ggky
+𱯓	gjgn	ghhn	ghgn
+𱯔	gjge	gjde
+𱯖	gedb	gqdb
+𱯢	ngyd	ngyh
+𱯣	gdny	gdnc
+𱯫	gtlq	gtlt
+𱯸	gwmm	gwkm	gumm	gukm
+𱰀	ggpq	ggpc
+𱰁	gvqb	gwfb
+𱰂	gyqw	gyqq
+𱰇	vtly	qgty	wfty
+𱲛	volf	qgol	wfol
+𱲩	hpu	hiyu
+𱲵	hyuh	hufh
+𱳑	hqgk	hqak
+𱳕	hccq	chcq
+𱴮	daeu	dgje
+𱵊	tini	tuyi
+𱵲	pyuw	pyww
+𱵷	pyvu	pyqu	pywu
+𱵺	whoc	whqc
+𱷦	ucdc	ucdq
+𱷭	uvhc	uqgc	uwfc
+𱸨	txkj	txcj
+𱸿	qino	qwyo
+𱹂	ynio	ynwo
+𱹌	ymao	ylao
+𱹟	yimo	yilo	ywyo
+𱹡	yomo	yolo
+𱹪	xitt	xtt
+𱺅	xqay	xqat
+𱺍	xlbi	xlbx
+𱺎	xuju	xuyu
+𱺿	pwff	mqff
+𱻬	ftxq	ftnq
+𱻶	tfik	rwfk
+𱼑	cexi	cexy
+𱼨	thvn	thqn	thwn
+𱼩	gchj	gcff
+𱼰	vmfm	qgvm	wfvm
+𱼱	vgnf	wfgf
+𱼲	fjda	fjfa
+𱽈	qgve	wfve
+𱽝	agcu	atfc
+𱽞	btbt	adbt
+𱽣	awxf	uwxf
+𱽴	agmj	gjgj
+𱾉	audj	aufj
+𱾓	gjgi	alfi
+𱾔	gjge	alge
+𱾕	btbe	ajne
+𱾲	btbw	atmw
+𱾿	aiyj	aiyf
+𱿀	gjgu	anwu
+𱿈	nlvj	nkgj
+𲀒	jgxg	jgmg
+𲀖	jgjt	jagt
+𲁆	puvj	puvh
+𲁱	yxxf	yxff
+𲁹	yxxx	yxfx
+𲄻	vlgk	wflk
+𲅇	ngud	nguh
+𲅍	ehwn	wneh
+𲅯	wkfp	wmyp
+𲅾	uthi	uthy
+𲇩	gjgq	aiqq
+𲈯	uake	ugky
+𲉭	nywc	nywq
+𲋒	djdh	djdj
+𲋓	iqfu	iqnc
+𲋔	wpnf	wyvf
+𲋕	wpty	wyvt
+𲋘	wpaq	wyvq
+𲋙	wpjf	wyvf
+𲋚	wpwa	wyva
+𲋜	wpxr	wyvr
+𲋝	wpuw	wyvw
+𲋞	wpdh	wyvh
+𲋟	wpaa	wyva
+𲋠	wphe	wyve
+𲋡	wpyi	wyvi
+𲌥	elof	elqf
+𲌭	rqpf	tlqf
+𲎢	hbwk	hwwk

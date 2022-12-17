@@ -1,6 +1,6 @@
 # rime-wubi86-ext
 
-86 五笔 Unicode 扩展 C 至 G 区汉字的 [RIME](https://rime.im/) 词库。正在逐区更新。
+86 五笔 Unicode 扩展 C 至 H 区汉字 [RIME](https://rime.im/) 词库。
 
 如果有错误，或者有可以改进的地方，请指出。
 
@@ -20,6 +20,7 @@
 | wubi86.exte.dict.yaml | 2B820-2CEA1 | 5762 |
 | wubi86.extf.dict.yaml | 2CEB0-2EBE0 | 7473 |
 | wubi86.extg.dict.yaml | 30000-3134A | 4939 |
+| wubi86.extg.dict.yaml | 31350-323AF | 4192 |
 
 按照[叶典](http://yedict.com/)的说法，`wubi86.extext.dict.yaml` 的四个部分分别叫做：基本区补充、扩展 A 补充、扩展 B 补充、扩展 C 补充。
 
@@ -41,15 +42,18 @@
 
 可以参考 [lotem](https://github.com/lotem) 的[导入码表示例](https://gist.github.com/lotem/5443073)进行操作。
 
-具体地，要将 `wubi86.extext.dict.yaml` 和 `wubi86.extc.dict.yaml` 导入 `wubi86.dict.yaml`，就要在 `wubi86.dict.yaml` 的 `---` 和 `...` 之间写上：
+具体地，可以将码表放入用户文件夹，然后在正在使用的 `.dict.yaml` 词典的 `---` 和 `...` 之间写上：
 
 ```
 import_tables:
-  - wubi86.extext
+  - wubi86.extc
+  - wubi86.extd
+  - wubi86.exte
+  - wubi86.extf
+  - wubi86.extg
+  - wubi86.exth
   - wubi86.extext
 ```
-
-以此类推。
 
 ## 感谢
 
