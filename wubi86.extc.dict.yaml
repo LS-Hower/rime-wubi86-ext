@@ -5,7 +5,7 @@
 
 ---
 name: wubi86.extc
-version: "2022.08.23"
+version: "2022.12.27"
 sort: by_weight
 columns:
   - text
@@ -25,13 +25,13 @@ encoder:
 
 𪜀	fnv	0
 𪜁	gbj	0
-𪜂	dnyi	0
+𪜂	gvyu	0
 𪜃	gkvn	0
 𪜄	gisk	0
 𪜅	sufj	0
 𪜆	gxxh	0
 𪜇	dnww	0
-𪜈	hga	0
+𪜈	hgan	0
 𪜉	khgh	0
 𪜊	ynb	0
 𪜋	ygat	0
@@ -125,7 +125,7 @@ encoder:
 𪝣	wpdk	0
 𪝤	wpgw	0
 𪝥	wdmj	0
-𪝦	wfkk	0
+𪝦	wffk	0
 𪝧	wjoo	0
 𪝨	wqao	0
 𪝩	wudh	0
@@ -171,7 +171,7 @@ encoder:
 𪞑	pwkh	0
 𪞒	pfqf	0
 𪞓	pwye	0
-𪞔	pqbc	0
+𪞔	pwbc	0
 𪞕	pdhl	0
 𪞖	umyy	0
 𪞗	umwy	0
@@ -205,16 +205,16 @@ encoder:
 𪞳	tfum	0
 𪞴	myfk	0
 𪞵	mfvd	0
-𪞶	btyg	0
+𪞶	tygb	0
 𪞷	bmah	0
-𪞸	yvtf	0
+𪞸	ybtf	0
 𪞹	bmvn	0
 𪞺	bmen	0
 𪞻	ybkd	0
 𪞼	ybuw	0
 𪞽	ybme	0
 𪞾	fwjh	0
-𪞿	gvnj	0
+𪞿	gbnj	0
 𪟀	vyn	0
 𪟁	dcjh	0
 𪟂	hkvn	0
@@ -224,14 +224,14 @@ encoder:
 𪟆	ycej	0
 𪟇	rwjh	0
 𪟈	ftjj	0
-𪟉	dwfj	0
+𪟉	dufj	0
 𪟊	degv	0
 𪟋	afjh	0
 𪟌	fkuj	0
 𪟍	uejh	0
 𪟎	jtyj	0
 𪟏	tguj	0
-𪟐	wveh	0
+𪟐	wvqh	0
 𪟑	yqkv	0
 𪟒	yttj	0
 𪟓	vbjx	0
@@ -246,7 +246,7 @@ encoder:
 𪟜	iitl	0
 𪟝	gmln	0
 𪟞	llft	0
-𪟟	qqql	0
+𪟟	qqlv	0
 𪟠	ujln	0
 𪟡	llsk	0
 𪟢	uwll	0
@@ -275,14 +275,14 @@ encoder:
 𪟹	fpxc	0
 𪟺	fjwj	0
 𪟻	wywf	0
-𪟼	uwww	0
+𪟼	ywww	0
 𪟽	hbj	0
 𪟾	fihi	0
 𪟿	hjhy	0
 𪠀	hpgf	0
 𪠁	wgkb	0
 𪠂	cvcb	0
-𪠃	dcg	0
+𪠃	dcd	0
 𪠄	djnv	0
 𪠅	dfkd	0
 𪠆	duak	0
@@ -335,7 +335,7 @@ encoder:
 𪠵	kwxn	0
 𪠶	kwfg	0
 𪠷	kqkf	0
-𪠸	kqi	0
+𪠸	kqiy	0
 𪠹	pykf	0
 𪠺	krvy	0
 𪠻	kycq	0
@@ -345,7 +345,7 @@ encoder:
 𪠿	kthh	0
 𪡀	ktdj	0
 𪡁	kycq	0
-𪡂	kcnh	0
+𪡂	kcah	0
 𪡃	knud	0
 𪡄	kalh	0
 𪡅	gkkd	0
@@ -374,7 +374,7 @@ encoder:
 𪡜	dukq	0
 𪡝	kawn	0
 𪡞	kkhm	0
-𪡟	kwqt	0
+𪡟	kwct	0
 𪡠	kriy	0
 𪡡	kqyg	0
 𪡢	vkkj	0
@@ -393,6 +393,7 @@ encoder:
 𪡯	kmun	0
 𪡰	kkvb	0
 𪡱	kdin	0
+𪡲	vkgd	0
 𪡳	ukck	0
 𪡴	kynn	0
 𪡵	kike	0
@@ -420,7 +421,7 @@ encoder:
 𪢋	kwsm	0
 𪢌	kugi	0
 𪢍	kxfk	0
-𪢎	kvkg	0
+𪢎	kbkg	0
 𪢏	dfeb	0
 𪢐	kgkm	0
 𪢑	ktwk	0
@@ -576,7 +577,7 @@ encoder:
 𪤧	fvgw	0
 𪤨	fthj	0
 𪤩	fqmt	0
-𪤪	fyvf	0
+𪤪	fyjg	0
 𪤫	fobc	0
 𪤬	dddf	0
 𪤭	fhbh	0
@@ -647,7 +648,7 @@ encoder:
 𪥮	vhjg	0
 𪥯	qhvc	0
 𪥰	vpsh	0
-𪥱	vgki	0
+𪥱	vgmi	0
 𪥲	vtdc	0
 𪥳	vkmh	0
 𪥴	thvf	0
@@ -698,10 +699,10 @@ encoder:
 𪦡	vgmi	0
 𪦢	veqg	0
 𪦣	vwtf	0
-𪦤	vxii	0
+𪦤	vxxi	0
 𪦥	xxvf	0
 𪦦	vfqy	0
-𪦧	vbfh	0
+𪦧	vjdh	0
 𪦨	vlqj	0
 𪦩	vmxt	0
 𪦪	vtln	0
@@ -736,7 +737,7 @@ encoder:
 𪧇	pnhd	0
 𪧈	plf	0
 𪧉	pwer	0
-𪧊	prkg	0
+𪧊	prkf	0
 𪧋	pqvf	0
 𪧌	pcsu	0
 𪧍	pfqh	0
@@ -747,7 +748,7 @@ encoder:
 𪧒	pwtk	0
 𪧓	pirf	0
 𪧔	pfjl	0
-𪧕	pfr	0
+𪧕	pfrm	0
 𪧖	prou	0
 𪧗	pwwl	0
 𪧘	povf	0
@@ -810,8 +811,8 @@ encoder:
 𪨑	nylk	0
 𪨒	nakf	0
 𪨓	nymk	0
-𪨔	nbmq	0
-𪨕	ntfb	0
+𪨔	nbhq	0
+𪨕	ntfm	0
 𪨖	ntfl	0
 𪨗	nttj	0
 𪨘	nqak	0
@@ -865,7 +866,7 @@ encoder:
 𪩈	mdtt	0
 𪩉	mgef	0
 𪩊	mldn	0
-𪩋	mowv0
+𪩋	mowv	0
 𪩌	mxdm	0
 𪩍	mgjf	0
 𪩎	mmmv	0
@@ -895,7 +896,7 @@ encoder:
 𪩦	anss	0
 𪩧	ypsn	0
 𪩨	qlpn	0
-𪩩	anwp	0
+𪩩	anup	0
 𪩪	anww	0
 𪩫	dwnb	0
 𪩬	cqhh	0
@@ -906,7 +907,7 @@ encoder:
 𪩱	cugi	0
 𪩲	gmht	0
 𪩳	mhgk	0
-𪩴	mhuh	0
+𪩴	mhug	0
 𪩵	tfhh	0
 𪩶	pwdh	0
 𪩷	mhuf	0
@@ -915,7 +916,7 @@ encoder:
 𪩺	vpmw	0
 𪩻	mhpj	0
 𪩼	mheo	0
-𪩽	mhxd	0
+𪩽	mhhd	0
 𪩾	ogwy	0
 𪩿	mhjc	0
 𪪀	wnns	0
@@ -945,7 +946,7 @@ encoder:
 𪪘	ygkc	0
 𪪙	yjgd	0
 𪪚	ybkd	0
-𪪛	yhhg	0
+𪪛	yhag	0
 𪪜	ywht	0
 𪪝	yvkc	0
 𪪞	yfuk	0
@@ -974,7 +975,7 @@ encoder:
 𪪵	fiya	0
 𪪶	upma	0
 𪪷	owva	0
-𪪸	wfva	0
+𪪸	vdfa	0
 𪪹	pela	0
 𪪺	xkg	0
 𪪻	xgmw	0
@@ -1015,7 +1016,7 @@ encoder:
 𪫞	nfg	0
 𪫟	nsy	0
 𪫠	xxnu	0
-𪫡	ndll	0
+𪫡	ndln	0
 𪫢	nhbh	0
 𪫣	nhg	0
 𪫤	ncqn	0
@@ -1113,14 +1114,14 @@ encoder:
 𪭀	ujun	0
 𪭁	fpgn	0
 𪭂	ujdn	0
-𪭃	nghl	0
+𪭃	ngnl	0
 𪭄	nptm	0
 𪭅	afan	0
 𪭆	nuht	0
 𪭇	nugy	0
 𪭈	nmmy	0
 𪭉	agf	0
-𪭊	alj	0
+𪭊	alv	0
 𪭋	fabd	0
 𪭌	alf	0
 𪭍	awat	0
@@ -1169,7 +1170,7 @@ encoder:
 𪭸	rkuf	0
 𪭹	rvqn	0
 𪭺	rqfy	0
-𪭻	rtgh	0
+𪭻	rrhg	0
 𪭼	rtjh	0
 𪭽	ryfy	0
 𪭾	rueg	0
@@ -1295,10 +1296,10 @@ encoder:
 𪯶	yrdy	0
 𪯷	yudh	0
 𪯸	ytrg	0
-𪯹	yeey	0
+𪯹	ydey	0
 𪯺	ywyn	0
 𪯻	ypgh	0
-𪯼	yyjf	0
+𪯼	yyjg	0
 𪯽	ythc	0
 𪯾	ykmy	0
 𪯿	yamy	0
@@ -1347,12 +1348,12 @@ encoder:
 𪰪	jsww	0
 𪰫	jdfa	0
 𪰬	jgtj	0
-𪰭	jevh	0
+𪰭	jqvh	0
 𪰮	jrmj	0
 𪰯	jghc	0
 𪰰	jffh	0
 𪰱	jght	0
-𪰲	jdjv	0
+𪰲	jdjb	0
 𪰳	jdhd	0
 𪰴	jwdc	0
 𪰵	jcll	0
@@ -1360,7 +1361,7 @@ encoder:
 𪰷	jvfp	0
 𪰸	jgxi	0
 𪰹	jfjf	0
-𪰺	jlqt	0
+𪰺	jlwt	0
 𪰻	jwyk	0
 𪰼	jyvk	0
 𪰽	jylh	0
@@ -1386,7 +1387,7 @@ encoder:
 𪱑	jdjf	0
 𪱒	jyke	0
 𪱓	joyc	0
-𪱔	jwfq	0
+𪱔	jvtq	0
 𪱕	jbch	0
 𪱖	jwyw	0
 𪱗	uljn	0
@@ -1425,7 +1426,7 @@ encoder:
 𪱸	swuy	0
 𪱹	siy	0
 𪱺	sdag	0
-𪱻	ssg	0
+𪱻	ssgg	0
 𪱼	fiwn	0
 𪱽	seh	0
 𪱾	sqiy	0
@@ -1466,7 +1467,7 @@ encoder:
 𪲡	ssfc	0
 𪲢	spyn	0
 𪲣	afsh	0
-𪲤	smqn	0
+𪲤	smqb	0
 𪲥	gkic	0
 𪲦	sitr	0
 𪲧	swwh	0
@@ -1476,7 +1477,7 @@ encoder:
 𪲫	ubts	0
 𪲬	ymho	0
 𪲭	sybq	0
-𪲮	sync	0
+𪲮	syny	0
 𪲯	sveh	0
 𪲰	sqmd	0
 𪲱	syod	0
@@ -1506,7 +1507,7 @@ encoder:
 𪳉	ssny	0
 𪳊	sdes	0
 𪳋	sgnn	0
-𪳌	segl	0
+𪳌	sfel	0
 𪳍	sbcc	0
 𪳎	bosu	0
 𪳏	skky	0
@@ -1618,7 +1619,7 @@ encoder:
 𪴹	ghic	0
 𪴺	swwh	0
 𪴻	gigk	0
-𪴼	hdar	0
+𪴼	hdat	0
 𪴽	gigt	0
 𪴾	lyhg	0
 𪴿	vgnh	0
@@ -1688,7 +1689,7 @@ encoder:
 𪵿	sriy	0
 𪶀	illn	0
 𪶁	imgg	0
-𪶂	imqn	0
+𪶂	ihqb	0
 𪶃	iklj	0
 𪶄	ijfy	0
 𪶅	iwfi	0
@@ -1713,7 +1714,7 @@ encoder:
 𪶘	ibbh	0
 𪶙	idff	0
 𪶚	ifin	0
-𪶛	shii	0
+𪶛	shiu	0
 𪶜	irua	0
 𪶝	igck	0
 𪶞	imhd	0
@@ -1751,10 +1752,10 @@ encoder:
 𪶾	ibgn	0
 𪶿	ixtw	0
 𪷀	ifir	0
-𪷁	imtt	0
+𪷁	imgt	0
 𪷂	ajdi	0
 𪷃	ijcq	0
-𪷄	iewq	0
+𪷄	ieuq	0
 𪷅	ipoo	0
 𪷆	ipju	0
 𪷇	iuev	0
@@ -1764,7 +1765,7 @@ encoder:
 𪷋	iftf	0
 𪷌	idmo	0
 𪷍	igeq	0
-𪷎	ighm	0
+𪷎	iamt	0
 𪷏	idgf	0
 𪷐	iahy	0
 𪷑	ijgf	0
@@ -1824,7 +1825,7 @@ encoder:
 𪸇	iynf	0
 𪸈	ilff	0
 𪸉	iqoi	0
-𪸊	ievq	0
+𪸊	iqvq	0
 𪸋	ipfc	0
 𪸌	iunu	0
 𪸍	nou	0
@@ -1873,7 +1874,7 @@ encoder:
 𪸸	omaw	0
 𪸹	ohet	0
 𪸺	ojqb	0
-𪸻	ojyc	0
+𪸻	ojyy	0
 𪸼	omfk	0
 𪸽	owgf	0
 𪸾	oqvh	0
@@ -2068,7 +2069,7 @@ encoder:
 𪻻	gith	0
 𪻼	grsy	0
 𪻽	gptk	0
-𪻾	gude	0
+𪻾	gute	0
 𪻿	gyac	0
 𪼀	guph	0
 𪼁	gyod	0
@@ -2202,7 +2203,7 @@ encoder:
 𪾁	rifc	0
 𪾂	rgkq	0
 𪾃	rnhh	0
-𪾄	rwvc	0
+𪾄	rrvc	0
 𪾅	rugt	0
 𪾆	hcqh	0
 𪾇	hcty	0
@@ -2223,7 +2224,7 @@ encoder:
 𪾖	lwvo	0
 𪾗	wprl	0
 𪾘	qxxl	0
-𪾙	qgtl	0
+𪾙	vtll	0
 𪾚	ovpl	0
 𪾛	inhl	0
 𪾜	lful	0
@@ -2249,7 +2250,7 @@ encoder:
 𪾰	hyty	0
 𪾱	hith	0
 𪾲	hujg	0
-𪾳	hhnh	0
+𪾳	hnhh	0
 𪾴	hnoy	0
 𪾵	hgxi	0
 𪾶	htgf	0
@@ -2364,7 +2365,7 @@ encoder:
 𫀣	pytw	0
 𫀤	pykt	0
 𫀥	ybmj	0
-𫀦	tsyi	0
+𫀦	tyi	0
 𫀧	taf	0
 𫀨	tmqn	0
 𫀩	ttfh	0
@@ -2373,7 +2374,7 @@ encoder:
 𫀬	tqvg	0
 𫀭	tvah	0
 𫀮	tivg	0
-𫀯	tvvg	0
+𫀯	tvjg	0
 𫀰	tiqb	0
 𫀱	trgk	0
 𫀲	tdqn	0
@@ -2414,7 +2415,7 @@ encoder:
 𫁕	pwql	0
 𫁖	pwrc	0
 𫁗	pwrm	0
-𫁘	pwkg	0
+𫁘	pwkv	0
 𫁙	pwqv	0
 𫁚	pwqf	0
 𫁛	pwaa	0
@@ -2545,7 +2546,7 @@ encoder:
 𫃘	olaf	0
 𫃙	lony	0
 𫃚	xhy	0
-𫃛	txn	0
+𫃛	txnv	0
 𫃜	xkg	0
 𫃝	xwnn	0
 𫃞	xkhh	0
@@ -2576,7 +2577,7 @@ encoder:
 𫃷	xnhg	0
 𫃸	xrev	0
 𫃹	xiqp	0
-𫃺	xthh	0
+𫃺	xggj	0
 𫃻	xpwk	0
 𫃼	xouf	0
 𫃽	xfvg	0
@@ -2599,7 +2600,7 @@ encoder:
 𫄎	xnlv	0
 𫄏	xtdt	0
 𫄐	xwvd	0
-𫄑	xwyv	0
+𫄑	xwpv	0
 𫄒	xsst	0
 𫄓	xlfd	0
 𫄔	xuto	0
@@ -2734,7 +2735,7 @@ encoder:
 𫆕	dfih	0
 𫆖	efyy	0
 𫆗	eqbh	0
-𫆘	efyy	0
+𫆘	eyhy	0
 𫆙	ipef	0
 𫆚	emg	0
 𫆛	eway	0
@@ -2783,7 +2784,7 @@ encoder:
 𫇆	ahnh	0
 𫇇	ahnt	0
 𫇈	ahnf	0
-𫇉	ahnq	0
+𫇉	ahnm	0
 𫇊	thpb	0
 𫇋	thri	0
 𫇌	thdn	0
@@ -2793,7 +2794,7 @@ encoder:
 𫇐	gcfg	0
 𫇑	gcft	0
 𫇒	swwv	0
-𫇓	qgsg	0
+𫇓	vssg	0
 𫇔	tdmn	0
 𫇕	wfkg	0
 𫇖	tdyk	0
@@ -2834,7 +2835,7 @@ encoder:
 𫇹	awxw	0
 𫇺	ayff	0
 𫇻	aibb	0
-𫇼	aimq	0
+𫇼	aimy	0
 𫇽	apeu	0
 𫇾	aiff	0
 𫇿	agki	0
@@ -2888,11 +2889,11 @@ encoder:
 𫈯	audy	0
 𫈰	aiwk	0
 𫈱	aute	0
-𫈲	aibf	0
+𫈲	ainf	0
 𫈳	aiii	0
 𫈴	awga	0
 𫈵	axqc	0
-𫈶	agje	0
+𫈶	agme	0
 𫈷	asmk	0
 𫈸	adun	0
 𫈹	adlj	0
@@ -2922,8 +2923,8 @@ encoder:
 𫉑	aufj	0
 𫉒	aiph	0
 𫉓	umhi	0
-𫉔	awmj	0
-𫉕	awsl	0
+𫉔	awnh	0
+𫉕	awsk	0
 𫉖	aefb	0
 𫉗	aifu	0
 𫉘	ayvh	0
@@ -3014,7 +3015,7 @@ encoder:
 𫊭	mdju	0
 𫊮	jhnt	0
 𫊯	jtuh	0
-𫊰	jqhh	0
+𫊰	jqhy	0
 𫊱	qiju	0
 𫊲	cdju	0
 𫊳	jgkq	0
@@ -3047,7 +3048,7 @@ encoder:
 𫋎	juth	0
 𫋏	jdfk	0
 𫋐	jamy	0
-𫋑	jgqg	0
+𫋑	jgyg	0
 𫋒	dcjj	0
 𫋓	jawk	0
 𫋔	jyxf	0
@@ -3055,7 +3056,7 @@ encoder:
 𫋖	jgkj	0
 𫋗	jiwy	0
 𫋘	jxlg	0
-𫋙	jxcj	0
+𫋙	jxkj	0
 𫋚	jfkf	0
 𫋛	jage	0
 𫋜	jelf	0
@@ -3131,7 +3132,7 @@ encoder:
 𫌢	hqff	0
 𫌣	hqas	0
 𫌤	fnmq	0
-𫌥	vhqq	0
+𫌥	vvhq	0
 𫌦	tfqq	0
 𫌧	hqum	0
 𫌨	qimq	0
@@ -3197,7 +3198,7 @@ encoder:
 𫍤	ytdj	0
 𫍥	yiqn	0
 𫍦	ypey	0
-𫍧	ygui	0
+𫍧	ygoy	0
 𫍨	ydfe	0
 𫍩	ykmw	0
 𫍪	ynny	0
@@ -3226,7 +3227,7 @@ encoder:
 𫎁	fjwk	0
 𫎂	tvwk	0
 𫎃	ywfu	0
-𫎄	gkuh	0
+𫎄	gkus	0
 𫎅	egf	0
 𫎆	ewwy	0
 𫎇	opge	0
@@ -3236,7 +3237,7 @@ encoder:
 𫎋	eede	0
 𫎌	eeov	0
 𫎍	eedn	0
-𫎎	hmhj	0
+𫎎	hmhk	0
 𫎏	mgfh	0
 𫎐	mtnn	0
 𫎑	mqhh	0
@@ -3275,7 +3276,7 @@ encoder:
 𫎲	fhfi	0
 𫎳	fhxf	0
 𫎴	fhmk	0
-𫎵	dhdq	0
+𫎵	fhdq	0
 𫎶	fhai	0
 𫎷	fhbi	0
 𫎸	fhlr	0
@@ -3284,9 +3285,9 @@ encoder:
 𫎻	fhjg	0
 𫎼	fhnv	0
 𫎽	fhfl	0
-𫎾	fhsb	0
+𫎾	fhsn	0
 𫎿	fhdq	0
-𫏀	hkfy	0
+𫏀	khfy	0
 𫏁	khgu	0
 𫏂	khty	0
 𫏃	khty	0
@@ -3298,14 +3299,14 @@ encoder:
 𫏉	khqk	0
 𫏊	khwf	0
 𫏋	khtj	0
-𫏌	khgi	0
+𫏌	khgo	0
 𫏍	khnt	0
 𫏎	khvq	0
 𫏏	khge	0
 𫏐	lrkh	0
 𫏑	khlq	0
 𫏒	khwc	0
-𫏓	khfx	0
+𫏓	khtx	0
 𫏔	dmjh	0
 𫏕	lcah	0
 𫏖	khec	0
@@ -3343,7 +3344,7 @@ encoder:
 𫏶	ldww	0
 𫏷	lhfg	0
 𫏸	lqdn	0
-𫏹	lrr	0
+𫏹	lwff	0
 𫏺	lefc	0
 𫏻	ovlh	0
 𫏼	fwfl	0
@@ -3401,8 +3402,7 @@ encoder:
 𫐰	vqpv	0
 𫐱	pfip	0
 𫐲	pghp	0
-𫐳	ehud	0
-𫐳	fudh	0
+𫐳	ehfd	0
 𫐴	ewpi	0
 𫐵	topi	0
 𫐶	qkqp	0
@@ -3437,7 +3437,7 @@ encoder:
 𫑓	wnnp	0
 𫑔	oopp	0
 𫑕	ujfp	0
-𫑖	ejep	0
+𫑖	djdp	0
 𫑗	qtbh	0
 𫑘	fnyb	0
 𫑙	qytb	0
@@ -3450,7 +3450,7 @@ encoder:
 𫑠	aabh	0
 𫑡	kjnb	0
 𫑢	dtbh	0
-𫑣	kgjb	0
+𫑣	kgmb	0
 𫑤	lebh	0
 𫑥	dfeb	0
 𫑦	jpvb	0
@@ -3490,8 +3490,8 @@ encoder:
 𫒈	qvf	0
 𫒉	qbh	0
 𫒊	qdhh	0
-𫒋	qtyy	0
-𫒌	qwjj	0
+𫒋	qty	0
+𫒌	qwjh	0
 𫒍	qtfh	0
 𫒎	qiy	0
 𫒏	qlg	0
@@ -3553,7 +3553,7 @@ encoder:
 𫓇	qgmi	0
 𫓈	qgym	0
 𫓉	qjgf	0
-𫓊	qjgc	0
+𫓊	qhgc	0
 𫓋	qhhh	0
 𫓌	qtwk	0
 𫓍	qttt	0
@@ -3668,7 +3668,7 @@ encoder:
 𫔺	bdy	0
 𫔻	byy	0
 𫔼	bmg	0
-𫔽	bcf	0
+𫔽	bcfg	0
 𫔾	bbg	0
 𫔿	bjsh	0
 𫕀	budy	0
@@ -3735,11 +3735,11 @@ encoder:
 𫕽	wgkd	0
 𫕾	lfhd	0
 𫕿	udwd	0
-𫖀	dmji	0
+𫖀	dmjs	0
 𫖁	dmjq	0
 𫖂	vfbd	0
 𫖃	dmjm	0
-𫖄	wtnd	0
+𫖄	wnhd	0
 𫖅	afdx	0
 𫖆	akfw	0
 𫖇	afwf	0
@@ -3811,7 +3811,7 @@ encoder:
 𫗉	mqdh	0
 𫗊	mquj	0
 𫗋	mqgt	0
-𫗌	dfan	0
+𫗌	dfau	0
 𫗍	ftwe	0
 𫗎	wpan	0
 𫗏	wpde	0
@@ -3913,9 +3913,9 @@ encoder:
 𫘯	culj	0
 𫘰	cylg	0
 𫘱	cmwk	0
-𫘲	mnpj	0
-𫘳	mnph	0
-𫘴	mnpf	0
+𫘲	mevj	0
+𫘳	mevp	0
+𫘴	menf	0
 𫘵	ymkb	0
 𫘶	rgyk	0
 𫘷	ymkj	0
@@ -4033,7 +4033,7 @@ encoder:
 𫚧	qggj	0
 𫚨	qgub	0
 𫚩	qgfe	0
-𫚪	qgcb	0
+𫚪	qgck	0
 𫚫	qgks	0
 𫚬	qgpe	0
 𫚭	qgvn	0
@@ -4052,7 +4052,7 @@ encoder:
 𫚺	rewo	0
 𫚻	vbwo	0
 𫚼	wvge	0
-𫚽	mtfo	0
+𫚽	mgwo	0
 𫚾	kgdo	0
 𫚿	whto	0
 𫛀	vfbo	0
@@ -4060,7 +4060,7 @@ encoder:
 𫛂	jqao	0
 𫛃	mgyo	0
 𫛄	hiwo	0
-𫛅	ufho	0
+𫛅	udwo	0
 𫛆	veho	0
 𫛇	vcxo	0
 𫛈	wvgy	0
@@ -4148,7 +4148,7 @@ encoder:
 𫜚	lfon	0
 𫜛	lfoh	0
 𫜜	wgni	0
-𫜝	kkxb	0
+𫜝	kkxf	0
 𫜞	lfox	0
 𫜟	usgn	0
 𫜠	hndb	0
@@ -4175,19 +4175,26 @@ encoder:
 
 # 容错码
 
-𪜂	gvyu	0
 𪜊	ynv	0
+𪜖	nflf	0
 𪜚	istn	0
+𪝦	wfkk	0
 𪝶	wynx	0
 𪟏	tfuj	0
 𪟟	qjql	0
+𪠔	dvcc	0
+𪠜	gcmh	0
 𪠶	kfwy	0
 𪠿	kth	0
+𪡂	kcfh	0
 𪤧	fwfw	0
+𪤪	fyvf	0
 𪤭	fhwb	0
 𪥑	dfie	0
 𪥘	uskd	0
 𪩟	mhwn	0
+𪪸	qgva	0
+𪪸	wfva	0
 𪫈	gkhe	0
 𪬍	nhky	0
 𪬗	ntff	0
@@ -4197,6 +4204,8 @@ encoder:
 𪮕	rnuj	0
 𪮜	rtff	0
 𪯢	aya	0
+𪯼	yyjf	0
+𪱔	jwfq	0
 𪱛	vtef	0
 𪱟	gyte	0
 𪲂	snjg	0
@@ -4204,36 +4213,60 @@ encoder:
 𪳧	sddb	0
 𪴒	srcy	0
 𪴤	swfq	0
+𪴨	ogow	0
+𪴿	wfgh	0
 𪶳	iqju	0
+𪷁	imtt	0
+𪷎	ighm	0
+𪷮	itfd	0
 𪷾	itmg	0
-𪸻	oyqy	0
+𪸻	ojyc	0
 𪹪	oghn	0
 𪹰	oywy	0
 𪺋	ttmo	0
 𪺑	rhye	0
 𪼰	gwfr	0
+𪽂	gttg	0
 𪾗	wyvl	0
+𪾙	qgtl	0
+𪾙	wftl	0
 𪾶	htff	0
+𫀂	ftyi	0
 𫀍	pyjy	0
 𫀝	jegi	0
+𫀝	jmgi	0
+𫀦	tyu	0
+𫀦	tsyi	0
 𫀦	tsyu	0
+𫁘	pwxf	0
 𫂝	tqmt	0
 𫂱	tohh	0
 𫂷	otyf	0
+𫃛	txnn	0
+𫃛	mxi	0
+𫃺	xgjh	0
+𫃺	xthh	0
 𫄎	xnkv	0
-𫄑	xwpv	0
-𫆘	eyhy	0
+𫄑	xwyv	0
+𫆘	efyy	0
+𫆯	egwt	0
+𫆯	egit	0
+𫇓	wfsg	0
+𫉿	ayli	0
 𫊕	adwt	0
+𫊕	arwt	0
 𫊖	aeyf	0
 𫊢	hayf	0
 𫊽	jklj	0
-𫋑	jgyg	0
-𫋙	jxkj	0
+𫋑	jgqg	0
+𫋙	jxcj	0
+𫌥	vhqq	0
 𫍄	ynuj	0
-𫏹	ltfh	0
+𫏹	lrrh	0
 𫐂	pkgl	0
 𫐃	lexl	0
 𫐨	fopi	0
+𫐳	fudh	0
 𫒸	qfkm	0
 𫓓	wftq	0
 𫕅	byjf	0
@@ -4258,7 +4291,8 @@ encoder:
 𫗿	tjnj	0
 𫚃	wfqo	0
 𫚲	pqwo	0
-𫚽	mgwo	0
+𫚽	mtfo	0
+𫛅	ufho	0
 𫜇	hlqo	0
 𫜉	hlqy	0
 𫜛	lfoj	0
