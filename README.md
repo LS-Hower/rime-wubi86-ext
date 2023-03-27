@@ -1,18 +1,18 @@
 # rime-wubi86-ext
 
-86 五笔 Unicode 扩展 C 至 H 区汉字 [RIME](https://rime.im/) 词库。
+86 五笔 Unicode 扩展区 C 至 H 区汉字 [RIME](https://rime.im/) 词库。
 
-如果有错误，或者有可以改进的地方，请指出。
+如果有错误或者可以改进的地方，请指出。
 
 ## 由来
 
-[rime/rime-wubi](https://github.com/rime/rime-wubi) 的 `wubi86.dict.yaml` 只有基本区和扩展 A、B 两区的汉字，需要补充。
+[rime/rime-wubi](https://github.com/rime/rime-wubi) 的 `wubi86.dict.yaml` 只有基本区和扩展 A、B 区的汉字，需要补充。
 
-因为找不到，所以自己来做了。
+因为当时找不到，所以自己来做了。
 
 ## 内容
 
-| 文件 | Unicode | 字数 |
+| 文件 | Unicode 码点 | 字数 |
 | :--- | :------ | :--- |
 | wubi86.extext.dict.yaml | 9FA6-9FFF<br/>4DB6-4DBF<br/>2A6D7-2A6DF<br/>2B735-2B739 | 90<br/>10<br/>9<br/>5 |
 | wubi86.extc.dict.yaml | 2A700-2B734 | 4149 |
@@ -20,29 +20,59 @@
 | wubi86.exte.dict.yaml | 2B820-2CEA1 | 5762 |
 | wubi86.extf.dict.yaml | 2CEB0-2EBE0 | 7473 |
 | wubi86.extg.dict.yaml | 30000-3134A | 4939 |
-| wubi86.extg.dict.yaml | 31350-323AF | 4192 |
+| wubi86.exth.dict.yaml | 31350-323AF | 4192 |
 
-按照[叶典](http://yedict.com/)的说法，`wubi86.extext.dict.yaml` 的四个部分分别叫做：基本区补充、扩展 A 补充、扩展 B 补充、扩展 C 补充。
+用[叶典](http://yedict.com/)的话说：
 
-## 使用注意
+`wubi86.extext.dict.yaml` 的四部分分别是基本区补充、扩展 A 补充、扩展 B 补充、扩展 C 补充。
 
-第一，这些码表有“容错码”，放在每个码表的末尾，用注释 `#容错码` 隔开。容错码同时也总结在了 `summary.txt` 中，可以用来参考。请注意，容错码的正异只是我主观的看法。容错码出现的原因如下：
+## 注意事项
 
-* 86 五笔自己存在“容错码”。86 五笔有一些繁体字根，一些使用繁体字根的繁体字，会有两种拆法。如“齒”字，既可以是 `hbj`，也可以是 `hwwb`。
-* 一些汉字字形比较奇怪，结构难以判断，五笔码不好确定。如“𪭃”字，既是 `ngnl`，也是 `nfll`。
-* 一些汉字在不同字库中的字形不一样。如“鿃”字，本来应该是⿰目㚒，`hdty`，但 SimSun-ExtB 字体做成了⿰目夾，`hdww`。这两种都收了。所有的字要是都这么处理，就太难了，所以在这一方面做得不完全。主要参考的字库字形是天珩全字库（见最后）。
-* 编写的时候参考了 [rime/rime-wubi](https://github.com/rime/rime-wubi) 的 `wubi86.dict.yaml` 这个原本的词库。例如“𠕄”字，它作 `mmgg`，所以这里的“𫩦”字既是 `kmgm`，又是 `kmmg`。
-* 我想在码表里面放一点彩蛋。
+1. 这些码表有“容错码”，放在每个码表的末尾，用注释 `#容错码` 隔开。
 
-第二，编写码表的时候，使用的**字形标准是尽量跟随中国大陆（内地）标准的**。例如，遇到的部件“爭”一律作“争”处理。值得注意的是，**[rime/rime-wubi](https://github.com/rime/rime-wubi) 的 `wubi86.dict.yaml` 没有特意把字形全部改为中国大陆（内地）标准的**，比如“𨼳”字，作 `bbkf`，这是台湾字形。同时，它对字根的处理也不太一样，比如“𡆢”字，作 `lqi`，而我会认为作 `lnv`。
+   容错码同时也总结在了 `multicode.txt` 中，可以参考。
 
-总之，在把这个码表和原有码表一起使用的时候，输入时可能要**思考并尝试汉字的各种笔顺、拆分和结构**，这样才更有可能打出想要的汉字。
+   请注意，容错码的正异只是我主观的看法。容错码出现的原因如下：
+
+   * 86 五笔自己就有“容错码”。
+
+     86 五笔有繁体字根，而一些使用繁体字根的繁体字，就会有不止一种拆法。
+
+     如“齒”： `hbj`、 `hwwb`。
+
+   * 扩展区汉字总有一大堆字形和结构很难确定的字。
+
+     如“𪭃”： `ngnl`、 `nfll`。
+
+   * 同一个字在不同字体里的字形可能不一样。
+
+     如“鿃”字，本来是⿰目㚒： `hdty`，但 SimSun-ExtB 字体做成了⿰目夾： `hdww`。这两种都收了。
+
+     码表里没有把所有的字都这么处理，因为这样会太费时太费力，意义也不大。
+
+     主要参考的字形是天珩全字库（见最后）的字形。
+
+   * 编写的时候参考了 [rime/rime-wubi](https://github.com/rime/rime-wubi) 的 `wubi86.dict.yaml` 这个“原本的词库”。
+
+     比如它的“𠕄”： `mmgg`，所以“𫩦”： `kmgm`、 `kmmg`。
+
+   * 我想在码表里面放一点彩蛋。
+
+2. 编写码表的时候，使用的 **字形标准是尽量跟随中国大陆（内地）标准的**。
+
+   比如遇到的部件“爭”都当作“争”处理了。
+
+   注意： **上文提到的“原本的词库” `wubi86.dict.yaml` 没有特意把字形全部改为中国大陆（内地）标准的**，比如它的“𨼳”： `bbkf`，这是台湾字形。
+
+   字根的处理也不太一样，比如它的“𡆢”： `lqi`，而我会认为“𡆢”： `lnv`。
+
+总之，这个码表应该和“原本的词库”一起使用，但在输入生僻字时可能要 **思考并尝试各种笔顺、拆分和结构**，这样才更容易打出想要的字。
 
 ## 导入
 
-可以参考 [lotem](https://github.com/lotem) 的[导入码表示例](https://gist.github.com/lotem/5443073)进行操作。
+可以参考 [lotem](https://github.com/lotem) 的[导入码表示例](https://gist.github.com/lotem/5443073)来操作。
 
-具体地，可以将码表放入用户文件夹，然后在正在使用的 `.dict.yaml` 词典的 `---` 和 `...` 之间写上：
+一般是把码表放入“用户文件夹”，然后在正在使用的词典的 `---` 和 `...` 中间写：
 
 ```
 import_tables:
@@ -55,8 +85,12 @@ import_tables:
   - wubi86.extext
 ```
 
+然后部署即可。
+
 ## 感谢
 
-* 软件：[BablePad](https://www.babelstone.co.uk/Software/BabelPad.html)；
-* 字库：[天珩全字库](http://cheonhyeong.com/Simplified/download.html)；
-* 字库：SimSun-ExtB。
+* 文本编辑器：[BabelPad](https://www.babelstone.co.uk/Software/BabelPad.html)
+* 网站：[叶典（字海网）](http://yedict.com/)
+* 网站：[字统网](https://zi.tools/)
+* 字体：[天珩全字库](http://cheonhyeong.com/Simplified/download.html)
+* 字体：SimSun-ExtB
