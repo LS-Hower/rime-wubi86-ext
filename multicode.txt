@@ -147,27 +147,34 @@ wubi86.extd.dict.yaml
 
 wubi86.exte.dict.yaml
 
-𫡀	uogj	uoyf
+𫡀	uogj	uogf
 𫡃	jgd	hhk	hghk
 𫡆	vhvd	hvvd
-𫡙	tfug	tguf
+𫡙	tguf	tfug
 𫡷	gfgj	ghgj
+𫡺	yfbj	yfbk
 𫢊	uwhj	uiu
 𫢤	wtkq	wtjq
 𫢳	wtkq	wtlq
 𫣋	wrfc	wrgc
-𫣶	wrhd	wtfd
 𫤂	wvmw	wwfw
-𫧂	rhky	tfky
+𫤘	tlqb	tkqd
+𫤬	iwu	iqi
+𫤳	unts	unts
 𫦘	qlwv	qlqv
+𫦾	vqql	wfql
+𫧔	yanf	ynhn
+𫨔	dtgf	dtff
 𫨜	dwpw	dwyw
 𫨼	aiic	awhc
+𫩁	qyrc	qyqc
+𫩃	ntxc	ntwc	ntvc
 𫩦	kmgm	kmmg
 𫪉	kwkw	kkww
 𫫀	kukh	kusk
 𫫁	knuh	knuj
 𫫘	gikk	gigk
-𫬁	vgnk	qggk
+𫬁	vgnk	qggk	wfgk
 𫬔	fkfk	ffkk
 𫬬	kryj	kryf
 𫬯	nfdn	fndn
@@ -175,115 +182,113 @@ wubi86.exte.dict.yaml
 𫬵	kiyj	kiyf
 𫭬	hjff	hjfd
 𫮍	fukh	fusk
-𫮩	vmff	qgmf
+𫮎	fyiy	fyji
+𫮓	fake	fgky
+𫮩	vmff	qgmf	wfmf
+𫮬	fxcj	fxkj
+𫮰	ffwd	ffwf
+𫯄	yyff	yfyf
 𫯉	fpff	fphf
 𫰟	vghg	vgqg
-𫱴	vhvf	qghv
+𫰩	vbsy	vbhi	vmsy
+𫱴	vhvf	qghv	wfhv
 𫱷	vvfj	vvhh
 𫲯	vybf	qgyb
+𫵙	nfhv	nfhd
 𫵚	ntdf	ngak
 𫵪	nvmw	nwfw
 𫵬	nevw	neww
 𫶋	vhpm	wfhm
 𫷙	guhj	guhf
-𫸟	vxaj	qgxa
+𫸀	yvhq	ynfq
+𫸟	vxaj	qgxa	wfxa
 𫸪	xgna	xxn
 𫹁	xhbh	xhwb
 𫺙	njgw	nkgw
-𫻴	hhae	hent
-𫻵	rhka	tfka
+𫻭	fayh	fagh
 𫽇	rgmb	rglb
 𫾜	rvqr	rwfr
 𫿆	jgty	thht	thgt
+𫿎	dndc	dhdc
 𫿶	qjqf	qqcf
 𬀛	yyjg	yyvf
-𬀡	ytvd	ytqd
+𬀡	ytvd	ytqd	ytwd
 𬀣	ytvw	ytww
-𬂄	uaed	uent
-𬂇	egqg	egyg
-𬃑	sudq	suqn
+𬂇	egyg	egqg
+𬃑	sudq	sugq
 𬃪	sukh	susk
+𬄒	stjc	stlc
 𬄚	sgfn	sghn
 𬄷	ssfi	sfii
 𬅆	sofc	sogc
 𬅊	svmw	swfw
-𬅵	vuhw	qguw
+𬅲	fqkw	fwkw
+𬅵	vuhw	qguw	wfuw
 𬆋	hhtf	htff
 𬆣	wnfc	tnhc
-𬆧	rhkc	tfkc
-𬇈	tfno	tfno
-𬇎	qakk	qaqk
+𬇎	qaqk	qakk
 𬇛	ighg	igqg
-𬈻	irhr	itfr
 𬉣	iwpt	iwyt
 𬋙	ovmw	owfw
 𬋡	vqqo	wfqo
+𬋢	tqmo	tqxo	ttmo	tqxo
 𬋪	epfc	epgc
 𬍋	vgnd	wfgd
 𬏹	uvmh	uqgh	uwfh
 𬐂	wfhf	wfnf
-𬐊	rhkr	tfkr
 𬑬	hvqq	hwfq
-𬒝	drhp	dtfp
 𬓄	pyqh	pyeh
 𬔨	uguo	uguw
-𬕝	tjf	tthh
+𬕝	tjff	tthh
 𬖲	obtj	obhj
-𬗋	hxiy	hhgi
-𬗫	hixi	hnii
-𬘃	xgfi	xghi
-𬘆	xjdh	xbfh
+𬗙	xknd	xkgd
+𬗜	xtgh	xtgf
+𬗫	hnii	hixi
+𬘃	xgfx	xghx	xgfi	xghi
+𬘄	xgjx	xgji
+𬘆	xjdh	xbfh	xemh
+𬘍	xlkx	xlki
 𬘎	xavj	xavh
-𬙲	udga	udff
+𬙲	udga	udff	udgf
 𬙳	udka	ugka
 𬙶	udee	ugee
 𬚠	btlq	btkq
-𬚩	mdmb	mmmb
-𬛺	vqak	qgqk
+𬚩	mmmb	mdmb	mddb
+𬛮	thgr	thur
+𬛺	vqak	qgqk	wfqk
 𬛻	vypt	wfyt
 𬛼	vgnl	wfgl
 𬛽	vqql	wfql
-𬛿	vhnn	qghn
-𬜀	vhpt	qght
+𬛿	vhnn	qghn	wfhn
+𬜀	vhpt	qght	wfht
 𬜁	vvkc	wfvc
-𬜂	vssg	qgsg
-𬜃	vmgm	qgmm
-𬜄	vssq	qgsq
-𬜺	axny	axnf	axng
+𬜂	vssg	qgsg	wfsg
+𬜃	vmgm	qgmm	wfmm
+𬜄	vssq	qgsq	wfsq
+𬜺	axnf	axng	axny
 𬝍	agqi	agti
-𬝨	awwf	gjgf
-𬞂	aqud	aqrd
-𬞭	aaho	gjgo
-𬞳	aeun	gjgn
-𬞴	arqf	gjgf
-𬞵	aqve	gjge
-𬞶	awgn	gjgn
-𬞸	apaq	gjgq
-𬞻	axrh	gjgh
-𬞼	axwy	gjgy
-𬞽	avjc	gjgc
-𬟏	axd	amgg
+𬝧	awga	awya	awua
+𬞂	aqrd	aqud
+𬞨	aoev	aoej
+𬟏	axf	amgg
 𬠞	jnuh	jnuj
 𬠪	jbcg	jbcf
 𬠰	vqqj	wfqj
 𬠸	eeuj	tuej
 𬣉	yvfj	yvhh
-𬣏	vqey	qgqy
+𬣏	vqey	qgqy	wfqy
+𬥒	vtmu	vtmi
 𬥘	mrhk	mtfk
 𬥰	qaqm	qamm
 𬦏	fhhv	fhvv
 𬧻	lvlh	kgkl
-𬩙	rhkp	tfkp
 𬩣	yjpd	yvup
-𬩭	rhkp	tfkp
 𬪜	yjbh	yvub
-𬪵	irhg	itfg
-𬪶	sgyg	sgyn
 𬪿	gfgf	ghgf
-𬫆	qtdc	qftc
+𬫋	qrgc	qtdc
 𬮀	qvmw	qwfw
 𬮂	qvmm	qwfm
-𬯶	vuwy	qguy
+𬯶	vuwy	qguy	wfuy
 𬱻	umrt	umfg
 𬲈	mfvw	mfww
 𬲋	wpfw	wyvw
@@ -313,15 +318,17 @@ wubi86.exte.dict.yaml
 𬵙	rqqo	tlqo
 𬵞	qojg	qoth
 𬶊	qggy	qggg
+𬷦	yiwo	yjio
+𬸉	amyg	atng	anqg
 𬸲	hlox	hlqx
 𬸳	hloq	hlqq
 𬸴	hlot	hlqt
-𬹝	qxf	qmgv
+𬹝	qxf	qmgv	txf	tmgv
 𬹞	dxf	dmgv
 𬹟	paxf	pamv
 𬹠	mxf	mmgv
 𬹡	wtxf	wtmv
-𬹢	gjhf	gjhv
+𬹢	gjhx	gjhv
 𬹱	yvbj	yvbf
 𬹲	ylf	yvul
 𬹵	hbes	hwws
