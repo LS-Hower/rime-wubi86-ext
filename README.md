@@ -10,6 +10,10 @@
 
 因为当时找不到，所以自己来做了。
 
+其他一些大字集五笔码表：
+* [lxgw/wubi86-super](https://github.com/lxgw/wubi86-super)
+* [CNMan/UnicodeCJK-WuBi](https://github.com/CNMan/UnicodeCJK-WuBi)
+
 ## 内容
 
 | 文件 | Unicode 码点 | 字数 |
@@ -70,25 +74,7 @@
 
 ## 导入
 
-可以参考 [lotem](https://github.com/lotem) 的[导入码表示例](https://gist.github.com/lotem/5443073)来操作。
-
-在 Windows 上的具体做法是：
-1. 找到你的五笔方案正在使用的主词典；
-2. 下载文件，将 7 个码表文件放在这个“主词典”所在的文件夹；
-3. 在这个“主词典”中，在 `---` 和 `...` 中间添上：
-
-```
-import_tables:
-  - wubi86.extc
-  - wubi86.extd
-  - wubi86.exte
-  - wubi86.extf
-  - wubi86.extg
-  - wubi86.exth
-  - wubi86.extext
-```
-
-4. 重新部署。
+请参考 [lotem](https://github.com/lotem) 的[导入码表示例](https://gist.github.com/lotem/5443073)进行操作。
 
 ## 感谢
 
