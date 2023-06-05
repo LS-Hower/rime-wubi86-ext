@@ -5,7 +5,7 @@
 
 ---
 name: wubi86.extd
-version: "2022.12.17"
+version: "2023.06.05"
 sort: by_weight
 columns:
   - text
@@ -26,10 +26,13 @@ encoder:
 𫝀	nhk	0
 𫝁	gkjk	0
 𫝂	gith	0
+𫝂	guth	0
 𫝃	gumw	0
 𫝄	twu	0
+𫝄	twi	0
 𫝅	ycwu	0
 𫝆	wgdr	0
+𫝆	wftr	0
 𫝇	wgkh	0
 𫝈	wplh	0
 𫝉	wgvk	0
@@ -58,6 +61,7 @@ encoder:
 𫝠	fseg	0
 𫝡	bdef	0
 𫝢	qyhy	0
+𫝢	qfyy	0
 𫝣	qfhy	0
 𫝤	udgd	0
 𫝥	ugde	0
@@ -71,6 +75,7 @@ encoder:
 𫝭	vmmv	0
 𫝮	vugi	0
 𫝯	vgnb	0
+𫝯	wfgb	0
 𫝰	pqjn	0
 𫝱	pnts	0
 𫝲	nvyi	0
@@ -86,6 +91,7 @@ encoder:
 𫝼	rwfq	0
 𫝽	rwhe	0
 𫝾	rswt	0
+𫝾	rfwt	0
 𫝿	rujh	0
 𫞀	yctd	0
 𫞁	yugd	0
@@ -140,6 +146,7 @@ encoder:
 𫞲	xhdu	0
 𫞳	htah	0
 𫞴	quti	0
+𫞴	qryi	0
 𫞵	pypg	0
 𫞶	pyro	0
 𫞷	twfc	0
@@ -163,6 +170,7 @@ encoder:
 𫟉	bcy	0
 𫟊	eyah	0
 𫟋	vgnw	0
+𫟋	wfgw	0
 𫟌	aqhu	0
 𫟍	aqxb	0
 𫟎	aagq	0
@@ -198,6 +206,7 @@ encoder:
 𫟬	rfmb	0
 𫟭	ptkb	0
 𫟮	sggc	0
+𫟮	sgtc	0
 𫟯	yjff	0
 𫟰	qivg	0
 𫟱	qfjf	0
@@ -241,21 +250,9 @@ encoder:
 𫠗	hlqw	0
 𫠘	imfm	0
 𫠙	hbmc	0
+𫠙	hwwc	0
 𫠚	hobk	0
 𫠛	hbjg	0
+𫠛	hwwg	0
 𫠜	hwbq	0
 𫠝	imkn	0
-
-# 容错码
-
-𫝂	guth	0
-𫝄	twi	0
-𫝆	wftr	0
-𫝢	qfyy	0
-𫝯	wfgb	0
-𫝾	rfwt	0
-𫞴	qryi	0
-𫟋	wfgw	0
-𫟮	sgtc	0
-𫠙	hwwc	0
-𫠛	hwwg	0

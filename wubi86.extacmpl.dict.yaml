@@ -1,0 +1,36 @@
+# Rime 词典: wubi86.extacmpl
+# 编码：utf-8
+#
+# 作者：LS_Hower
+
+---
+name: wubi86.extacmpl
+version: "2023.06.05"
+sort: by_weight
+columns:
+  - text
+  - code
+  - weight
+encoder:
+  exclude_patterns:
+    - '^z.*$'
+  rules:
+    - length_equal: 2
+      formula: "AaAbBaBb"
+    - length_equal: 3
+      formula: "AaBaCaCb"
+    - length_in_range: [4, 10]
+      formula: "AaBaCaZa"
+...
+
+䶶	hrjh	0
+䶷	kqn	0
+䶸	ktcy	0
+䶹	bte	0
+䶺	emwy	0
+䶻	epqn	0
+䶼	ewcn	0
+䶽	eqbt	0
+䶾	vwqw	0
+䶿	wpqn	0
+䶿	wyvq	0

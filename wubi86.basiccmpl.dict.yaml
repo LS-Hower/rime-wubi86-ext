@@ -1,11 +1,11 @@
-# Rime 词典: wubi86.extext
+# Rime 词典: wubi86.basiccmpl
 # 编码：utf-8
 #
 # 作者：LS_Hower
 
 ---
-name: wubi86.extext
-version: "2022.12.17"
+name: wubi86.basiccmpl
+version: "2023.06.05"
 sort: by_weight
 columns:
   - text
@@ -22,8 +22,6 @@ encoder:
     - length_in_range: [4, 10]
       formula: "AaBaCaZa"
 ...
-
-# 9FA6-9FFF
 
 龦	oiph	0
 龧	jjfj	0
@@ -44,6 +42,7 @@ encoder:
 龶	gggg	0
 龷	aghg	0
 龸	ipb	0
+龸	ipv	0
 龹	udi	0
 龺	fjj	0
 龻	xyxy	0
@@ -55,6 +54,7 @@ encoder:
 鿁	yawy	0
 鿂	lwvo	0
 鿃	hdty	0
+鿃	hdww	0
 鿄	ivys	0
 鿅	pyfc	0
 鿆	pydc	0
@@ -98,6 +98,7 @@ encoder:
 鿬	dlg	0
 鿭	qqiy	0
 鿮	ygkh	0
+鿮	ygmh	0
 鿯	trqo	0
 鿰	ifjh	0
 鿱	gcn	0
@@ -115,50 +116,3 @@ encoder:
 鿽	kpwf	0
 鿾	fyvb	0
 鿿	gehi	0
-
-# 4DB6-4DBF
-
-䶶	hrjh	0
-䶷	kqn	0
-䶸	ktcy	0
-䶹	bte	0
-䶺	emwy	0
-䶻	epqn	0
-䶼	ewcn	0
-䶽	eqbt	0
-䶾	vwqw	0
-䶿	wpqn	0
-
-# 2A6D7-2A6DF
-
-𪛗	wgkf	0
-𪛘	lhng	0
-𪛙	ggll	0
-𪛚	hhgg	0
-𪛛	nyi	0
-𪛜	aaaa	0
-𪛝	myi	0
-𪛞	gaps	0
-𪛟	hgg	0
-
-# 2B735-2B739
-
-𫜵	etyt	0
-𫜶	eybt	0
-𫜷	dtfb	0
-𫜸	kxn	0
-𫜹	vngg	0
-
-# 容错码
-
-龸	ipv	0
-鿃	hdww	0
-鿮	ygmh	0
-䶿	wyvq	0
-𪛗	wgmn	0
-𪛘	mqnv	0
-𪛙	nnll	0
-𪛚	hnv	0
-𪛛	nnv	0
-𪛜	ghnv	0
-𪛝	tnyi	0
