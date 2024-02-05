@@ -64,7 +64,7 @@ if os.path.exists(dst_file_name):
         exit(1)
 
 # 读取
-data = dict_parser.parse(dictname)
+start, end, codes = dict_parser.parse(dictname)
 
 with open(dst_file_name, encoding='utf-8', mode='w') as dst:
 
@@ -72,6 +72,6 @@ with open(dst_file_name, encoding='utf-8', mode='w') as dst:
     print(head % (dictname, dictname, datetime.now().strftime("%Y.%m.%d")), end='', file=dst)
 
     # 写入
-    for kv in data.items():
-        for code in kv[1]:
-            print(f"{kv[0]}\t{code}\t0", file=dst)
+    for offset, codelist in enumerate(codes):
+        for code in codelist:
+            print(f"{chr(start+offset)}\t{code}\t0", file=dst)

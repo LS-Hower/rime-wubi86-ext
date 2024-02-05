@@ -11,20 +11,25 @@ import sys
 line_form = re.compile("((.(\t[a-y]{3,4})+\n?)|(#.*))?")
 dictnames = code_ranges.keys()
 
-def prefix_u(codepoint: int) -> str:
+def unicode_scalar(codepoint: int) -> str:
 
     """将码点转换成 U+XXXX 的形式."""
 
     return "U+%.4X" % codepoint
 
 
+def has_duplicate(ls: list) -> bool:
+
+    """检查 list 中是否有重复元素"""
+
+    return len(ls) != len(set(ls))
 
 
-def parse(dictname: str) -> dict[str, list[str]]:
+def parse(dictname: str) -> tuple[int, int, list[list[str]]]:
 
     """接受词典名称 (类似于 "extc");
     读取 .txt 文件;
-    返回从单字映射到五笔码 (列表) 的 dict.
+    返回码点起始值, 码点终值（超尾）, 各个字符外码的 list.
     """
 
     if dictname not in dictnames:
@@ -32,7 +37,7 @@ def parse(dictname: str) -> dict[str, list[str]]:
         print(f"must be one of {dictnames}", file=sys.stderr)
         exit(1)
 
-    retdict = {}
+    retlist = []
     expected_codepoint = code_ranges[dictname][0]
     max_codepoint = code_ranges[dictname][1]
     line_number = 0
@@ -56,38 +61,37 @@ def parse(dictname: str) -> dict[str, list[str]]:
 
             codepoint = ord(ln[0])
 
-            if codepoint > max_codepoint:
-                print(f"wrong character {prefix_u(codepoint)} at line {line_number}", file=sys.stderr)
+            if codepoint >= max_codepoint:
+                print(f"wrong character {unicode_scalar(codepoint)} at line {line_number}", file=sys.stderr)
                 print(f"\"{ln}\"", file=sys.stderr)
-                print(f"max codepoint of {dictname} is {prefix_u(max_codepoint)}", file=sys.stderr)
+                print(f"max codepoint of {dictname} is {unicode_scalar(max_codepoint - 1)}", file=sys.stderr)
                 exit(1)
 
             if codepoint != expected_codepoint:
-                print(f"wrong character {prefix_u(codepoint)} at line {line_number}", file=sys.stderr)
+                print(f"wrong character {unicode_scalar(codepoint)} at line {line_number}", file=sys.stderr)
                 print(f"\"{ln}\"", file=sys.stderr)
-                print(f"should be {prefix_u(expected_codepoint)}", file=sys.stderr)
+                print(f"should be {unicode_scalar(expected_codepoint)}", file=sys.stderr)
                 exit(1)
 
             parts = ln.split("\t")
-            character = parts[0]
             codes = parts[1:]
 
-            if len(codes) > 1 and len(codes) != len(set(codes)):
+            if has_duplicate(codes):
                 print(f"duplicate code at line {line_number}", file=sys.stderr)
                 print(f"\"{ln}\"", file=sys.stderr)
                 exit(1)
 
-            retdict[character] = codes
+            retlist.append(codes)
             expected_codepoint += 1
 
         # 检查最后一个字的码点
-        if expected_codepoint - 1 != max_codepoint:
-            print(f"incomplete file content, stopped at {prefix_u(codepoint)}", file=sys.stderr)
+        if expected_codepoint != max_codepoint:
+            print(f"incomplete file content, stopped at {unicode_scalar(codepoint)}", file=sys.stderr)
             print(f"\"{ln}\"", file=sys.stderr)
-            print(f"max codepoint of {dictname} should be {prefix_u(max_codepoint)}", file=sys.stderr)
+            print(f"max codepoint of {dictname} should be {unicode_scalar(max_codepoint - 1)}", file=sys.stderr)
             exit(1)
 
-    return retdict
+    return code_ranges[dictname][0], code_ranges[dictname][1], retlist
 
 
 
